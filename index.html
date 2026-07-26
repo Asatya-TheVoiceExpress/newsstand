@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Voice Express Stand</title>
+<meta name="description" content="The Voice Express reading room - every gazette, broadsheet, booklet and magazine, free to read and yours to keep.">
+<link rel="icon" href="logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="head" id="head">
+  <div class="head-in">
+    <a class="brand" href="#/" data-go>
+      <img class="brand-logo" id="brand-logo" src="logo.png" alt="">
+      <span class="brand-txt">The Voice Express <em>Stand</em></span>
+    </a>
+    <div class="head-search">
+      <svg class="search-i" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg>
+      <input id="search" type="search" placeholder="Search titles, authors, tags, years&hellip;" autocomplete="off">
+    </div>
+    <div class="head-acct" id="acct"></div>
+  </div>
+  <nav class="nav" id="nav"></nav>
+</header>
+
+<main id="app" class="app" aria-live="polite"></main>
+
+<footer class="foot"><span id="foot-meta"></span></footer>
+
+<!-- ── full-screen reader ────────────────────────────────────────────── -->
+<div id="reader" class="reader" hidden>
+  <div class="rd-bar">
+    <button class="rd-back" id="rd-back" aria-label="Back to the shelf">&#8592;</button>
+    <div class="rd-meta"><span id="rd-type" class="rd-type"></span><span id="rd-title" class="rd-title"></span></div>
+    <div class="rd-tools">
+      <div class="rd-themes" id="rd-themes" role="group" aria-label="Reading theme">
+        <button data-theme="paper" class="on" title="Paper">A</button>
+        <button data-theme="sepia" title="Sepia">A</button>
+        <button data-theme="night" title="Night">A</button>
+      </div>
+      <button class="rd-act" id="rd-save" title="Save to library">&#9734;</button>
+      <button class="rd-act" id="rd-dl" title="Download">&#8595;</button>
+      <button class="rd-act rd-support" id="rd-support" title="Support this work">&#9825;</button>
+    </div>
+  </div>
+  <div class="rd-prog"><span id="rd-progbar"></span></div>
+  <div class="rd-stage" id="rd-stage"></div>
+</div>
+
+<!-- ── detail + pay-what-you-want modal ──────────────────────────────── -->
+<div id="modal" class="modal" hidden>
+  <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="m-title">
+    <button class="modal-x" id="modal-x" aria-label="Close">&times;</button>
+    <div class="modal-body">
+      <div class="m-coverwrap"><img id="m-cover" class="m-cover" alt=""></div>
+      <div class="m-info">
+        <div id="m-type" class="m-type"></div>
+        <h2 id="m-title" class="m-title"></h2>
+        <p id="m-sub" class="m-sub"></p>
+        <div id="m-tags" class="m-tags"></div>
+        <div class="m-actions">
+          <button id="m-read" class="btn-dl">Read now</button>
+          <button id="m-download" class="btn-ghost">Download</button>
+          <button id="m-save" class="btn-save" title="Save to your library">&#9734;</button>
+        </div>
+        <button id="m-supporttoggle" class="m-supportline">Loved it? Support The Voice Express &#9825;</button>
+        <p class="m-note">Free to take. Pay only if it moved you.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ── support / pay sheet (links + QR) ──────────────────────────────── -->
+<div id="pay" class="modal" hidden>
+  <div class="modal-card sm" role="dialog" aria-modal="true" aria-labelledby="pay-title">
+    <button class="modal-x" id="pay-x" aria-label="Close">&times;</button>
+    <div class="pay-body">
+      <div class="pay-head">
+        <h2 id="pay-title">Support the work</h2>
+        <p id="pay-sub" class="pay-sub">Name your price, then scan or tap to give. Or just say hello.</p>
+      </div>
+      <div class="pwyw">
+        <label class="pwyw-l" for="p-amt">Name your price</label>
+        <div class="amount"><span id="p-cur" class="cur"></span><input id="p-amt" class="amt" type="number" min="0" step="10" value="0"></div>
+        <div class="chips" id="p-chips"></div>
+      </div>
+      <div class="pay-rails" id="pay-rails"></div>
+      <div class="pay-foot">
+        <button id="pay-hearts" class="btn-ghost">&#9825; Pay in hearts (free)</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ── cute message sheet ────────────────────────────────────────────── -->
+<div id="msg" class="modal" hidden>
+  <div class="modal-card sm" role="dialog" aria-modal="true">
+    <button class="modal-x" id="msg-x" aria-label="Close">&times;</button>
+    <div class="acct-body">
+      <h2 class="pay-title">Send a cute message</h2>
+      <p class="acct-note">A line is plenty. It lands straight in my inbox sheet.</p>
+      <input id="msg-from" class="acct-user" placeholder="your name or handle (optional)" maxlength="60">
+      <textarea id="msg-body" class="acct-user msg-area" placeholder="say hi&hellip;" maxlength="600"></textarea>
+      <button id="msg-go" class="btn-dl">Send &#9825;</button>
+      <p class="acct-msg" id="msg-status"></p>
+    </div>
+  </div>
+</div>
+
+<!-- ── passwordless account ──────────────────────────────────────────── -->
+<div id="acctmodal" class="modal" hidden>
+  <div class="modal-card sm" role="dialog" aria-modal="true">
+    <button class="modal-x" id="acct-x" aria-label="Close">&times;</button>
+    <div class="acct-body">
+      <div class="acct-tabs">
+        <button id="tab-in" class="atab on">Sign in</button>
+        <button id="tab-up" class="atab">Create account</button>
+      </div>
+      <p class="acct-note" id="acct-note">No password &mdash; just a unique handle. Your shelf travels with it.</p>
+      <input id="acct-user" class="acct-user" placeholder="your handle" autocomplete="off" maxlength="40">
+      <button id="acct-go" class="btn-dl">Continue</button>
+      <p class="acct-msg" id="acct-msg"></p>
+    </div>
+  </div>
+</div>
+
+<div id="toast" class="toast"></div>
+
+<script src="qr.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "brand": "The Voice Express",
+  "tagline": "Truth Takes Time",
+  "logo": "logo.png",
+  "currency": "INR",
+  "api": "https://script.google.com/macros/s/AKfycbwk84Gd3AKh5SXo3Ov7mAnILzbxjkvshi1aSKMHvepCimzLXKzvw_YlYMAhJyQufV8wlQ/exec",
+  "pay": {
+    "hearts": true,
+    "message": true,
+    "kofi": [],
+    "paypal": "https://paypal.me/voiceexpress",
+    "stripe": "https://buy.stripe.com/test_demo_voiceexpress",
+    "upi": "mitali120501-1@okhdfcbank"
+  }
+}
