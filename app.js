@@ -166,9 +166,7 @@
   function viewHome() {
     var f = document.createDocumentFragment();
     var hero = el("div", "hero");
-    hero.appendChild(el("div", "kick", "Free to read · Pay what you will"));
     hero.appendChild(el("h1", null, "The Reading Room"));
-    hero.appendChild(el("p", "sub", "Every gazette, broadsheet, booklet and magazine " + BRAND + " has set in type — gathered, indexed, and yours to read."));
     hero.appendChild(el("div", "stat", CAT.length + " publications  ·  " + SECTIONS.length + " collections"));
     f.appendChild(hero);
 
@@ -186,7 +184,7 @@
   function viewBrowse(section) {
     var state = { section: section || "", type: "", year: "", sort: "new" };
     var box = el("div");
-    box.appendChild(headLine(section ? SECLABEL[section] || "Browse" : "Browse the stand", section ? "" : "The full index"));
+    box.appendChild(headLine(section ? SECLABEL[section] || "Browse" : "Browse", ""));
     var layout = el("div", "browse"), facets = el("aside", "facets"), main = el("div");
     layout.appendChild(facets); layout.appendChild(main); box.appendChild(layout);
     function base() { return state.section ? CAT.filter(function (x) { return x.section === state.section; }) : CAT.slice(); }
@@ -398,7 +396,7 @@
   var payItem = null;
   function openPay(x) {
     payItem = x;
-    $("#pay-sub").textContent = x ? "For “" + x.title + "” — name your price, then scan or tap." : "Name your price, then scan or tap.";
+    $("#pay-sub").textContent = x ? "For “" + x.title + "”" : "";
     $("#p-cur").textContent = CUR;
     var amt = $("#p-amt"); amt.value = (x && x.price_sugg) || 0; amt.min = (x && x.price_min) || 0;
     buildPayChips(x);

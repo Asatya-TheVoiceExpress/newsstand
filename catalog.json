@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-26T21:06:37Z",
+ "generated": "2026-07-27T09:40:13Z",
  "sections": [
   {
    "key": "gazettes",
@@ -821,13 +821,12 @@
    "url": "static/media/gazette_128.html",
    "ext": "html",
    "size": 12156,
-   "date": "2026-07-26",
+   "date": "2026-07-27",
    "tags": [],
-   "cover": "static/uploads/_icon_8c42abcc4628.png",
+   "cover": "static/uploads/_icon_70f6f1b2895b.png",
    "subtitle": null,
    "type": "gazette",
-   "title": "Ingest Smoke Test",
-   "section_name": "Features",
+   "title": "Gazette #128",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
