@@ -1,10 +1,10 @@
 {
- "generated": "2026-07-27T09:40:13Z",
+ "generated": "2026-07-28T00:20:58Z",
  "sections": [
   {
    "key": "gazettes",
    "label": "Gazettes",
-   "count": 43
+   "count": 42
   },
   {
    "key": "booklets",
@@ -815,25 +815,6 @@
    "id": "gazette-117",
    "year": "2026",
    "author": "Firaaq"
-  },
-  {
-   "file": "gazette_128.html",
-   "url": "static/media/gazette_128.html",
-   "ext": "html",
-   "size": 12156,
-   "date": "2026-07-27",
-   "tags": [],
-   "cover": "static/uploads/_icon_70f6f1b2895b.png",
-   "subtitle": null,
-   "type": "gazette",
-   "title": "Gazette #128",
-   "currency": "INR",
-   "price_min": 0.0,
-   "price_sugg": 0.0,
-   "section": "gazettes",
-   "id": "gazette-128",
-   "year": "2026",
-   "author": null
   },
   {
    "file": "gazette_67.html",

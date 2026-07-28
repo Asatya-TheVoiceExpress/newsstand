@@ -1,0 +1,15 @@
+{
+  "name": "The Voice Express Stand",
+  "short_name": "Voice Express",
+  "description": "The Voice Express reading room - every gazette, broadsheet, booklet and magazine, free to read and yours to keep.",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#15110c",
+  "theme_color": "#15110c",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "logo.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

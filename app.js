@@ -423,8 +423,9 @@
       if (k && k.url) out.push({ label: k.label || "Ko-fi", url: k.url, qr: k.url });
     });
     if (PAY.upi) {
+      /* no &am= — amount picker was unusable on mobile (0..10000 via spinner). Scan and enter amount in the UPI app instead. */
       var uri = "upi://pay?pa=" + encodeURIComponent(PAY.upi) + "&pn=" + encodeURIComponent(BRAND) +
-        (a ? "&am=" + a : "") + "&cu=" + (CFG.currency || "INR") + "&tn=" + encodeURIComponent(title);
+        "&cu=" + (CFG.currency || "INR") + "&tn=" + encodeURIComponent(title);
       out.push({ label: "UPI · " + PAY.upi, url: uri, qr: uri, show: PAY.upi });
     }
     if (PAY.paypal) {
@@ -591,7 +592,7 @@
 
   /* ── toast ── */
   var tT;
-  function toast(m) { var t = $("#toast"); t.textContent = m; t.classList.add("on"); clearTimeout(tT); tT = setTimeout(function () { t.classList.remove("on"); }, 2600); }
+  function toast(m) { var t = $("#toast"); t.textContent = m; t.classList.remove("act"); t.onclick = null; t.classList.add("on"); clearTimeout(tT); tT = setTimeout(function () { t.classList.remove("on"); }, 2600); }
 
   /* ── router ── */
   function go(hash) { if (location.hash === hash) route(); else location.hash = hash; }
@@ -655,5 +656,33 @@
       if (d && d.ok) { LIB = new Set(d.library.concat(Array.from(LIB))); persistLib(); renderAcct(); if (location.hash.indexOf("#/library") === 0) route(); }
     }).catch(function () {});
     route();
+    registerSW();
+  }
+
+  /* ── PWA: install shell offline, prompt to refresh on new version ──
+     Accounts, library and hearts live in localStorage, not the SW cache,
+     so they survive every update — only the shell/catalog cache is replaced. */
+  function registerSW() {
+    if (!("serviceWorker" in navigator)) return;
+    navigator.serviceWorker.register("sw.js", { scope: "./" }).then(function (reg) {
+      reg.addEventListener("updatefound", function () {
+        var nw = reg.installing;
+        if (!nw) return;
+        nw.addEventListener("statechange", function () {
+          if (nw.state === "installed" && navigator.serviceWorker.controller) {
+            var t = $("#toast");
+            toast("Update ready — tap to refresh");
+            t.classList.add("act");
+            t.onclick = function () { t.classList.remove("act"); t.onclick = null; nw.postMessage("skipWaiting"); };
+          }
+        });
+      });
+    }).catch(function () {});
+    var refreshing = false;
+    navigator.serviceWorker.addEventListener("controllerchange", function () {
+      if (refreshing) return;
+      refreshing = true;
+      location.reload();
+    });
   }
 })();
