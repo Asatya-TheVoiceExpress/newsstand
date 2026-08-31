@@ -361,7 +361,11 @@
   var modalItem = null;
   function openModal(x) {
     modalItem = x;
-    $("#m-cover").src = x.cover || "";
+    // src="" makes the browser re-request the current page as an image and
+    // paint a broken-image icon -- drop the attribute when there is no cover.
+    var mc = $("#m-cover");
+    if (x.cover) { mc.src = x.cover; mc.hidden = false; }
+    else { mc.removeAttribute("src"); mc.hidden = true; }
     $("#m-type").textContent = TYPE[x.type] || x.type;
     $("#m-title").textContent = x.title;
     $("#m-sub").textContent = x.subtitle || "";
@@ -434,7 +438,17 @@
       else if (a) pp += (pp.indexOf("?") > -1 ? "&" : "?") + "amount=" + a;
       out.push({ label: "PayPal", url: pp, qr: pp });
     }
-    if (PAY.stripe) out.push({ label: "Card · Stripe", url: PAY.stripe, qr: PAY.stripe });
+    if (PAY.razorpay) {
+      var rp = PAY.razorpay.replace(/\/+$/, "");
+      if (a) {
+        // razorpay.me/@handle takes the amount as a path segment in RUPEES;
+        // hosted payment pages/links take ?amount= in PAISE. Same rail, two
+        // different contracts -- get this wrong and the reader is charged 100x.
+        if (/razorpay\.me\//i.test(rp)) rp += "/" + Math.round(a);
+        else rp += (rp.indexOf("?") > -1 ? "&" : "?") + "amount=" + Math.round(a * 100);
+      }
+      out.push({ label: "Card · UPI · Razorpay", url: rp, qr: rp });
+    }
     return out;
   }
   function renderRails() {
@@ -611,7 +625,13 @@
     var nav = $("#nav"); nav.innerHTML = "";
     function link(label, hash) { var a = el("a", null, label); a.dataset.hash = hash; a.onclick = function () { go(hash); }; nav.appendChild(a); }
     link("Home", "#/"); link("Browse", "#/browse");
-    SECTIONS.forEach(function (s) { link(s.label, "#/browse/" + s.key); });
+    // Skip empty shelves: the home page already omits them (row() returns
+    // nothing for an empty list), so advertising one in the nav just leads to
+    // a dead "Nothing matches those filters." page.
+    SECTIONS.forEach(function (s) {
+      if (s.count === 0) return;
+      link(s.label, "#/browse/" + s.key);
+    });
     link("My Library", "#/library"); link("Downloads", "#/downloads");
   }
   function setNav(view, sub) {

@@ -3,13 +3,12 @@
   "tagline": "Truth Takes Time",
   "logo": "logo.png",
   "currency": "INR",
-  "api": "https://script.google.com/macros/s/AKfycbwk84Gd3AKh5SXo3Ov7mAnILzbxjkvshi1aSKMHvepCimzLXKzvw_YlYMAhJyQufV8wlQ/exec",
+  "api": "https://script.google.com/macros/s/AKfycbwbL1XIr-AiWJxy2Vi0UhdYYhYmpH6T5_xLlNtutIuVLG6nR4NQNT20Eq2PdE0HgPZ41Q/exec",
   "pay": {
     "hearts": true,
     "message": true,
     "kofi": [],
     "paypal": "https://paypal.me/voiceexpress",
-    "stripe": "https://buy.stripe.com/test_demo_voiceexpress",
-    "upi": "mitali120501-1@okhdfcbank"
+    "razorpay": "https://razorpay.me/@mitaliaayatmahnoorsharma"
   }
 }

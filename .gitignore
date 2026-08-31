@@ -1,0 +1,7 @@
+# Never publish a DB snapshot from a served directory:
+# nothing here reads it, it exceeds GitHub's 100MB file limit, and it exposes
+# every table (users/password_hash included) on a public URL.
+voice_express.snapshot.db
+data/voice_express.snapshot.db
+*.db-wal
+*.db-shm

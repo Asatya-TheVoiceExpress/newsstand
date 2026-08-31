@@ -43,6 +43,20 @@ img{max-width:100%}
 .acct-menu button:hover{background:var(--paper2)}
 .nav{max-width:var(--max);margin:0 auto;padding:0 20px 8px;display:flex;gap:2px;overflow-x:auto;scrollbar-width:none}
 .nav::-webkit-scrollbar{display:none}
+/* The nav scrolls horizontally (8 sections, ~807px of items in a 375px
+   viewport -- 432px of it off-screen) but the scrollbar is hidden, so on a
+   phone half the sections were invisible with nothing to suggest a swipe.
+   Fade the trailing edge: the standard affordance for "there is more here".
+   The mask is applied to a wrapper-less element via mask-image so it costs no
+   markup, and degrades to a plain hard edge where mask-image is unsupported. */
+.nav{
+  -webkit-mask-image:linear-gradient(to right,#000 calc(100% - 34px),transparent 100%);
+          mask-image:linear-gradient(to right,#000 calc(100% - 34px),transparent 100%);
+  scroll-behavior:smooth;
+}
+@media(min-width:900px){ .nav{-webkit-mask-image:none;mask-image:none} }
+.nav a{min-height:44px;display:inline-flex;align-items:center}
+
 .nav a{font-family:var(--mono);font-size:.66rem;letter-spacing:.16em;text-transform:uppercase;
   color:var(--dim);padding:6px 12px;white-space:nowrap;border-bottom:2px solid transparent}
 .nav a:hover{color:var(--ink)}
@@ -316,4 +330,15 @@ img{max-width:100%}
   .app,.modal,.modal-card,.reader{animation:none}
   .reveal{opacity:1;transform:none;transition:none}
   .card:hover{transform:none}.card:hover .cover img{transform:none}
+}
+
+
+/* Touch ergonomics -- 124 of 158 interactive elements measured under 36px at
+   390px. Same reasoning as the reader stylesheet: grow the hit area, leave the
+   type alone. */
+@media(max-width:768px){
+  .card a, .card button, .chip, .row-nav a, .head-act, .pay-opt,
+  header button, header a{ min-height:44px; display:inline-flex;
+    align-items:center; justify-content:center; }
+  input, select, textarea{ min-height:44px; }
 }
