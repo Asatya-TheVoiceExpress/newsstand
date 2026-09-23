@@ -455,9 +455,12 @@ body { font-family:var(--serif); color:var(--ink) }
 .cols-1 figcaption,.cols-2 figcaption,.cols-3 figcaption {
   font-family:var(--mono); font-size:.52em; text-transform:uppercase;
   letter-spacing:.08em; color:var(--mid); margin:.35em 0 .45em;
-  display:flex; justify-content:space-between; align-items:baseline; text-align:left;
+  display:flex; flex-wrap:wrap; justify-content:space-between; align-items:baseline; text-align:left;
 }
 .art-fig figcaption::before { content:'▸'; font-size:.75em; opacity:.35; margin-right:.4em; flex-shrink:0 }
+/* photo credit -- attribution, always its own line beneath the caption text,
+   never uppercase/letterspaced like the caption so a name doesn't read as shouted */
+.photo-credit { flex-basis:100%; order:2; margin-top:.25em; text-transform:none; letter-spacing:0; font-style:normal; opacity:.72 }
 
 /* ── Photo story: 3-column page-break-aware grid ─────────────────────────────
    One .pg-grid per page, containing .pg-row divs.  Each row holds exactly 3
@@ -1049,9 +1052,27 @@ html,body{margin:0;background:transparent;font-family:"Georgia","Times New Roman
    .ap-cover-bleed straight into an already-A4-sized raw block, no wrapper
    needed there since that block IS the full page already. */
 .ap-cover-bleed-wrap{margin:-14mm -16mm 0;width:calc(100% + 32mm);height:297mm;overflow:hidden;position:relative;page-break-after:always}
+/* .ap-cover-bleed pins its own font-size:16px local rem-root -- every text
+   size inside the cover (issue stamp, masthead, headline, deck, byline...)
+   below is expressed in `em` off THIS rule rather than in `rem` off the
+   document root. Reason: this stylesheet is not only served standalone
+   (real browser default root = 16px, which is what all the px numbers in
+   this comment block and the ones below were designed and eyeballed
+   against) -- dtp_engine._ap_stylesheet() also lifts this whole <style>
+   block verbatim into every published gazette (create_gazette_project),
+   which ALSO concatenates make_magazine.py's CSS, and that stylesheet sets
+   html{font-size:10.5pt} (=14px) for its own, unrelated magazine-page
+   layout math. Any `rem` value in here would silently inherit that foreign
+   14px root and render ~12.5% undersized in every published gazette while
+   looking correct only in a standalone preview -- exactly the bug this
+   fixed local root exists to kill. Pick 16px (not the 14px ambient base)
+   because that's the size every number below was actually tuned against;
+   an em chain rooted here reproduces the intended px sizes in BOTH
+   contexts and is inert to whatever `html{font-size:...}` some future
+   sibling stylesheet decides to set. */
 .ap-cover-bleed{position:relative;width:100%;height:100%;box-sizing:border-box;background-color:var(--ink);background-repeat:no-repeat;color:#fff;display:flex;flex-direction:column;justify-content:space-between;
-  --accent:#d6d1c2}
-.ap-cover-issue{position:absolute;top:10mm;right:14mm;z-index:1;font-family:"Georgia",serif;font-size:.62rem;
+  font-size:16px;--accent:#d6d1c2}
+.ap-cover-issue{position:absolute;top:10mm;right:14mm;z-index:1;font-family:"Georgia",serif;font-size:.62em;
   letter-spacing:.2em;text-transform:uppercase;color:rgba(255,255,255,.75);font-weight:700}
 .ap-cover-scrim{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(10,8,4,.74) 0%,rgba(10,8,4,.05) 32%,rgba(10,8,4,.08) 55%,rgba(10,8,4,.94) 100%)}
 .ap-cover-scrim-flat{background:linear-gradient(160deg,rgba(0,0,0,.12),rgba(0,0,0,.42))}
@@ -1062,18 +1083,28 @@ html,body{margin:0;background:transparent;font-family:"Georgia","Times New Roman
    solid white (the mark disappearing entirely), invisible until the
    _bs_file_for repo-root fallback started actually resolving this img's src
    to a real embedded logo instead of a silently-broken path. */
-.ap-cover-mast .ap-pub{color:#fff}
-.ap-cover-mast .ap-pub-tag{color:rgba(255,255,255,.78)}
-.ap-cover-mast .ap-standalone{color:rgba(255,255,255,.55)}
+/* font-size here re-expressed in `em` (was `rem`) for the same reason as
+   .ap-cover-bleed's own font-size:16px above -- .ap-pub/.ap-pub-tag/
+   .ap-standalone are shared classes also used bare outside the cover, so
+   their BASE rules a little further up keep their original `rem` sizing
+   (correct there, standalone doc's real 16px root); only these cover-
+   scoped overrides need a size fix, since only here does the ambient root
+   potentially disagree with 16px. */
+.ap-cover-mast .ap-pub{color:#fff;font-size:.95em}
+.ap-cover-mast .ap-pub-tag{color:rgba(255,255,255,.78);font-size:.75em}
+.ap-cover-mast .ap-standalone{color:rgba(255,255,255,.55);font-size:.50em}
 .ap-cover-foot{position:relative;z-index:1;padding:0 14mm 18mm;text-align:center;color:#fff}
 /* .ap-kicker/.ap-covernote already read color:var(--accent) from their base
    rules above -- .ap-cover-bleed's local --accent:#d6d1c2 (light neutral)
-   makes them legible here without a separate hardcoded override. */
-.ap-cover-headline{font-family:"Playfair Display","Georgia",serif;font-weight:900;font-size:3.1rem;line-height:1.04;
-  letter-spacing:-.5px;margin:.5rem 0 .6rem;text-align:center;text-shadow:0 2px 20px rgba(0,0,0,.55)}
-.ap-cover-foot .ap-deck{color:rgba(255,255,255,.92);margin-left:auto;margin-right:auto}
-.ap-cover-foot .ap-byline{color:rgba(255,255,255,.82)}
-.ap-cover-foot .ap-meta{color:rgba(255,255,255,.68)}
+   makes them legible here without a separate hardcoded override. Their
+   font-size still needs the same em fix as everything else in this block. */
+.ap-cover-foot .ap-kicker{font-size:.60em}
+.ap-cover-foot .ap-covernote{font-size:.78em}
+.ap-cover-headline{font-family:"Playfair Display","Georgia",serif;font-weight:900;font-size:3.1em;line-height:1.04;
+  letter-spacing:-.5px;margin:.5em 0 .6em;text-align:center;text-shadow:0 2px 20px rgba(0,0,0,.55)}
+.ap-cover-foot .ap-deck{color:rgba(255,255,255,.92);margin-left:auto;margin-right:auto;font-size:1.05em}
+.ap-cover-foot .ap-byline{color:rgba(255,255,255,.82);font-size:.65em}
+.ap-cover-foot .ap-meta{color:rgba(255,255,255,.68);font-size:.63em}
 /* body typography -- two-column justified */
 .ap-body{column-count:2;column-gap:10mm;column-rule:1px solid #d4cfc0;text-align:justify;hyphens:auto;
   font-size:.90rem;line-height:1.58;color:#2a2520}
@@ -1092,6 +1123,7 @@ html,body{margin:0;background:transparent;font-family:"Georgia","Times New Roman
 .ap-body .bs-fig{margin:1.2rem 0;break-inside:avoid;column-span:1}
 .ap-body .bs-fig img{width:100%;max-height:90mm;object-fit:contain;background:var(--paper);display:block;border:1px solid var(--g);margin-bottom:.4rem}
 .ap-body .bs-fig figcaption{font-size:.64rem;color:#5a5247;line-height:1.35;text-indent:0;border-bottom:1px solid #d4cfc0;padding-bottom:.3rem;margin-bottom:0}
+.ap-body .photo-credit{display:block;font-style:normal;opacity:.75;margin-top:.2em}
 /* lists */
 .ap-body .bs-list{margin:0.8rem 0 0.8rem 1.2rem;font-size:.88rem;line-height:1.5}
 .ap-body .bs-list li{margin-bottom:.3rem}
@@ -1107,6 +1139,36 @@ html,body{margin:0;background:transparent;font-family:"Georgia","Times New Roman
 .ap-foot{margin-top:1.2rem;border-top:1px solid #d4cfc0;padding-top:.6rem;display:flex;justify-content:space-between;
   font-size:.58rem;letter-spacing:.11em;text-transform:uppercase;color:var(--g)}
 @media print{.ap-body{column-count:2}body{margin:0;padding:0}}
+/* Screen-only cover fixup. The cover geometry above (.ap-cover-bleed-wrap's
+   fixed height:297mm, .ap-cover-headline's fixed font-size:3.1em) is tuned
+   for an actual A4 print/PDF page, where print pagination silently absorbs
+   any excess -- there is no such rescue in a live browser viewport (this doc
+   is also served straight into an iframe in the reading app, phone through
+   desktop), so a long headline/deck simply overflows the ink-black cover box
+   and gets clipped by `overflow:hidden`. Rather than touch the base rules
+   (which would also perturb the print output we've tuned pixel-for-pixel),
+   everything below is scoped to `@media screen` so print/PDF stays exactly
+   as it was -- only the live-web rendering gets fluid, shrink-to-fit sizing
+   plus a belt-and-suspenders word-break so one freakishly long unbroken word
+   still can't blow out the box.
+   Clamp bounds below are in `em` (off .ap-cover-bleed's fixed 16px local
+   root, same as the base rules above), NOT `rem` -- a `rem`-based clamp
+   would reintroduce the exact ambient-root bug this whole em conversion
+   exists to kill, just inside @media screen instead of the base rule: the
+   3.1rem upper bound would silently resolve to 43.4px instead of the
+   intended 49.6px wherever this stylesheet lands next to
+   make_magazine.py's html{font-size:10.5pt}. Every bound here is the same
+   number as the corresponding base rule's em value, so on a wide-enough
+   viewport the clamp's max clause reproduces the base rule exactly (no
+   double-shrink), and only narrow viewports pull it down further. */
+@media screen{
+  .ap-cover-bleed-wrap{height:auto;min-height:297mm}
+  .ap-cover-headline{font-size:clamp(1.6em,7vw,3.1em);overflow-wrap:break-word;word-break:break-word;
+    hyphens:auto;-webkit-hyphens:auto;text-wrap:balance}
+  .ap-cover-foot .ap-deck{font-size:clamp(.82em,3vw,1.05em);overflow-wrap:break-word;word-break:break-word;
+    hyphens:auto;-webkit-hyphens:auto}
+  .ap-cover-issue{font-size:clamp(.5em,1.6vw,.62em)}
+}
 
 
 .art-content{

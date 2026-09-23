@@ -1,25 +1,45 @@
 {
- "generated": "2026-08-31T09:48:21Z",
+ "generated": "2026-09-22T13:43:54Z",
  "sections": [
   {
    "key": "gazettes",
    "label": "Gazettes",
-   "count": 42
+   "count": 43
   },
   {
    "key": "booklets",
    "label": "Booklets & Compilations",
-   "count": 23
+   "count": 26
   },
   {
    "key": "broadsheets",
    "label": "Broadsheets",
-   "count": 21
+   "count": 22
   },
   {
    "key": "magazines",
    "label": "Magazines",
-   "count": 0
+   "count": 1
+  }
+ ],
+ "series": [
+  {
+   "key": "column-10",
+   "label": "Blotter",
+   "kind": "compilations",
+   "count": 26,
+   "cover": "static/uploads/_icon_0a0f278ccac2.png",
+   "latest": "2026-08-22",
+   "earliest": "2026-05-15"
+  },
+  {
+   "key": "tve-monthly",
+   "label": "The Voice Express",
+   "kind": "issues",
+   "count": 22,
+   "cover": "static/uploads/_icon_93dab05f1951.png",
+   "latest": "2026-09-01",
+   "earliest": "2023-02-01"
   }
  ],
  "catalog": [
@@ -27,2123 +47,5961 @@
    "file": "compilation_10_2026-05-01-2026-05-31.html",
    "url": "static/media/compilation_10_2026-05-01-2026-05-31.html",
    "ext": "html",
-   "size": 1652165,
-   "date": "2026-08-23",
+   "size": 1656946,
+   "date": "2026-08-22",
    "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-05-01 – 2026-05-31",
-   "cover": "static/uploads/_icon_7ac7a6a679d8.png",
+   "cover": "static/uploads/_icon_0a0f278ccac2.png",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-05-01-2026-05-31",
    "year": "2026",
-   "author": null,
    "publication_id": 214,
-   "dtp_project_id": 197
-  },
-  {
-   "file": "compilation_10_all.html",
-   "url": "static/media/compilation_10_all.html",
-   "ext": "html",
-   "size": 6637977,
-   "date": "2026-08-23",
-   "tags": [],
-   "subtitle": null,
-   "type": "booklet",
-   "title": "Blotter — Booklet, all time",
-   "cover": "static/uploads/_icon_4de8e70c6787.png",
-   "currency": "INR",
-   "price_min": 0.0,
-   "price_sugg": 0.0,
-   "section": "booklets",
-   "id": "compilation-10-all",
-   "year": "2026",
+   "dtp_project_id": 197,
    "author": null,
-   "publication_id": 215,
-   "dtp_project_id": 201
+   "contents": [
+    {
+     "id": 22,
+     "title": "Yearly paper street",
+     "subtitle": "12 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-12"
+    },
+    {
+     "id": 23,
+     "title": "Sufficient headline",
+     "subtitle": "15 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-15"
+    },
+    {
+     "id": 24,
+     "title": "Unlisted reading",
+     "subtitle": "18 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-18"
+    },
+    {
+     "id": 25,
+     "title": "Dry silence answers",
+     "subtitle": "21 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-21"
+    },
+    {
+     "id": 26,
+     "title": "Plain notice levels",
+     "subtitle": "24 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-24"
+    },
+    {
+     "id": 27,
+     "title": "One wide difference",
+     "subtitle": "27 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-27"
+    },
+    {
+     "id": 28,
+     "title": "Measures round this town",
+     "subtitle": "30 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-30"
+    },
+    {
+     "id": 29,
+     "title": "Yesterday thickens",
+     "subtitle": "2 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-02"
+    },
+    {
+     "id": 30,
+     "title": "This date darkens clerk",
+     "subtitle": "5 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-05"
+    },
+    {
+     "id": 31,
+     "title": "City marks each field",
+     "subtitle": "8 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-08"
+    },
+    {
+     "id": 32,
+     "title": "That clock widens name",
+     "subtitle": "11 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-11"
+    },
+    {
+     "id": 33,
+     "title": "Unfinished winter",
+     "subtitle": "14 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-14"
+    },
+    {
+     "id": 34,
+     "title": "Photograph records",
+     "subtitle": "17 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-17"
+    },
+    {
+     "id": 35,
+     "title": "Sober method glass",
+     "subtitle": "20 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-20"
+    },
+    {
+     "id": 36,
+     "title": "One consequence prints",
+     "subtitle": "23 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-23"
+    },
+    {
+     "id": 37,
+     "title": "Newspaper remains",
+     "subtitle": "26 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-26"
+    },
+    {
+     "id": 38,
+     "title": "Printed sequence tape",
+     "subtitle": "29 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-29"
+    },
+    {
+     "id": 39,
+     "title": "Some known quantity",
+     "subtitle": "2 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-02"
+    },
+    {
+     "id": 40,
+     "title": "Thin signal remains",
+     "subtitle": "5 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-05"
+    },
+    {
+     "id": 41,
+     "title": "Late sparse atmosphere",
+     "subtitle": "8 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-08"
+    },
+    {
+     "id": 42,
+     "title": "Archive holds the form",
+     "subtitle": "11 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-11"
+    },
+    {
+     "id": 43,
+     "title": "Copies round a lamp",
+     "subtitle": "14 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-14"
+    },
+    {
+     "id": 44,
+     "title": "Our remainder files",
+     "subtitle": "17 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-17"
+    },
+    {
+     "id": 45,
+     "title": "Evidence darkens",
+     "subtitle": "20 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-20"
+    },
+    {
+     "id": 46,
+     "title": "Quiet granite stone",
+     "subtitle": "23 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-23"
+    },
+    {
+     "id": 47,
+     "title": "Our estimate weighs",
+     "subtitle": "26 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-26"
+    },
+    {
+     "id": 48,
+     "title": "Our blunt overcast",
+     "subtitle": "29 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-29"
+    },
+    {
+     "id": 49,
+     "title": "Coarse winter answers",
+     "subtitle": "1 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-01"
+    },
+    {
+     "id": 50,
+     "title": "District reads each hour",
+     "subtitle": "4 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-04"
+    },
+    {
+     "id": 51,
+     "title": "Darkens at one graph",
+     "subtitle": "7 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-07"
+    },
+    {
+     "id": 52,
+     "title": "Reported ledger",
+     "subtitle": "10 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-10"
+    },
+    {
+     "id": 53,
+     "title": "Orders in that date",
+     "subtitle": "13 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-13"
+    },
+    {
+     "id": 54,
+     "title": "Shadow cools no chalk",
+     "subtitle": "16 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-16"
+    },
+    {
+     "id": 55,
+     "title": "One sealed overcast",
+     "subtitle": "19 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-19"
+    },
+    {
+     "id": 56,
+     "title": "Listed shutter file",
+     "subtitle": "22 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-22"
+    }
+   ],
+   "article_count": 35,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "month",
+    "period_label": "Monthly",
+    "range": [
+     "2026-05-12",
+     "2026-08-22"
+    ]
+   }
   },
   {
    "file": "compilation_10_2026-06-01-2026-06-30.html",
    "url": "static/media/compilation_10_2026-06-01-2026-06-30.html",
    "ext": "html",
-   "size": 3550107,
-   "date": "2026-08-23",
+   "size": 3556758,
+   "date": "2026-08-22",
    "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-06-01 – 2026-06-30",
-   "cover": "static/uploads/_icon_8c76d1e081db.png",
+   "cover": "static/uploads/_icon_a998ab568f02.png",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-06-01-2026-06-30",
    "year": "2026",
-   "author": null,
    "publication_id": 216,
-   "dtp_project_id": 198
+   "dtp_project_id": 198,
+   "author": null,
+   "contents": [
+    {
+     "id": 22,
+     "title": "Yearly paper street",
+     "subtitle": "12 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-12"
+    },
+    {
+     "id": 23,
+     "title": "Sufficient headline",
+     "subtitle": "15 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-15"
+    },
+    {
+     "id": 24,
+     "title": "Unlisted reading",
+     "subtitle": "18 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-18"
+    },
+    {
+     "id": 25,
+     "title": "Dry silence answers",
+     "subtitle": "21 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-21"
+    },
+    {
+     "id": 26,
+     "title": "Plain notice levels",
+     "subtitle": "24 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-24"
+    },
+    {
+     "id": 27,
+     "title": "One wide difference",
+     "subtitle": "27 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-27"
+    },
+    {
+     "id": 28,
+     "title": "Measures round this town",
+     "subtitle": "30 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-30"
+    },
+    {
+     "id": 29,
+     "title": "Yesterday thickens",
+     "subtitle": "2 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-02"
+    },
+    {
+     "id": 30,
+     "title": "This date darkens clerk",
+     "subtitle": "5 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-05"
+    },
+    {
+     "id": 31,
+     "title": "City marks each field",
+     "subtitle": "8 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-08"
+    },
+    {
+     "id": 32,
+     "title": "That clock widens name",
+     "subtitle": "11 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-11"
+    },
+    {
+     "id": 33,
+     "title": "Unfinished winter",
+     "subtitle": "14 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-14"
+    },
+    {
+     "id": 34,
+     "title": "Photograph records",
+     "subtitle": "17 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-17"
+    },
+    {
+     "id": 35,
+     "title": "Sober method glass",
+     "subtitle": "20 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-20"
+    },
+    {
+     "id": 36,
+     "title": "One consequence prints",
+     "subtitle": "23 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-23"
+    },
+    {
+     "id": 37,
+     "title": "Newspaper remains",
+     "subtitle": "26 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-26"
+    },
+    {
+     "id": 38,
+     "title": "Printed sequence tape",
+     "subtitle": "29 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-29"
+    },
+    {
+     "id": 39,
+     "title": "Some known quantity",
+     "subtitle": "2 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-02"
+    },
+    {
+     "id": 40,
+     "title": "Thin signal remains",
+     "subtitle": "5 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-05"
+    },
+    {
+     "id": 41,
+     "title": "Late sparse atmosphere",
+     "subtitle": "8 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-08"
+    },
+    {
+     "id": 42,
+     "title": "Archive holds the form",
+     "subtitle": "11 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-11"
+    },
+    {
+     "id": 43,
+     "title": "Copies round a lamp",
+     "subtitle": "14 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-14"
+    },
+    {
+     "id": 44,
+     "title": "Our remainder files",
+     "subtitle": "17 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-17"
+    },
+    {
+     "id": 45,
+     "title": "Evidence darkens",
+     "subtitle": "20 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-20"
+    },
+    {
+     "id": 46,
+     "title": "Quiet granite stone",
+     "subtitle": "23 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-23"
+    },
+    {
+     "id": 47,
+     "title": "Our estimate weighs",
+     "subtitle": "26 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-26"
+    },
+    {
+     "id": 48,
+     "title": "Our blunt overcast",
+     "subtitle": "29 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-29"
+    },
+    {
+     "id": 49,
+     "title": "Coarse winter answers",
+     "subtitle": "1 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-01"
+    },
+    {
+     "id": 50,
+     "title": "District reads each hour",
+     "subtitle": "4 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-04"
+    },
+    {
+     "id": 51,
+     "title": "Darkens at one graph",
+     "subtitle": "7 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-07"
+    },
+    {
+     "id": 52,
+     "title": "Reported ledger",
+     "subtitle": "10 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-10"
+    },
+    {
+     "id": 53,
+     "title": "Orders in that date",
+     "subtitle": "13 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-13"
+    },
+    {
+     "id": 54,
+     "title": "Shadow cools no chalk",
+     "subtitle": "16 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-16"
+    },
+    {
+     "id": 55,
+     "title": "One sealed overcast",
+     "subtitle": "19 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-19"
+    },
+    {
+     "id": 56,
+     "title": "Listed shutter file",
+     "subtitle": "22 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-22"
+    }
+   ],
+   "article_count": 35,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "month",
+    "period_label": "Monthly",
+    "range": [
+     "2026-05-12",
+     "2026-08-22"
+    ]
+   }
   },
   {
    "file": "compilation_10_2026-07-01-2026-07-31.html",
    "url": "static/media/compilation_10_2026-07-01-2026-07-31.html",
    "ext": "html",
-   "size": 2615056,
-   "date": "2026-08-23",
+   "size": 2621702,
+   "date": "2026-08-22",
    "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-07-01 – 2026-07-31",
-   "cover": "static/uploads/_icon_671ec25f9c64.png",
+   "cover": "static/uploads/_icon_925d3c2dafac.png",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-07-01-2026-07-31",
    "year": "2026",
-   "author": null,
    "publication_id": 217,
-   "dtp_project_id": 199
+   "dtp_project_id": 199,
+   "author": null,
+   "contents": [
+    {
+     "id": 22,
+     "title": "Yearly paper street",
+     "subtitle": "12 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-12"
+    },
+    {
+     "id": 23,
+     "title": "Sufficient headline",
+     "subtitle": "15 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-15"
+    },
+    {
+     "id": 24,
+     "title": "Unlisted reading",
+     "subtitle": "18 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-18"
+    },
+    {
+     "id": 25,
+     "title": "Dry silence answers",
+     "subtitle": "21 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-21"
+    },
+    {
+     "id": 26,
+     "title": "Plain notice levels",
+     "subtitle": "24 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-24"
+    },
+    {
+     "id": 27,
+     "title": "One wide difference",
+     "subtitle": "27 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-27"
+    },
+    {
+     "id": 28,
+     "title": "Measures round this town",
+     "subtitle": "30 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-30"
+    },
+    {
+     "id": 29,
+     "title": "Yesterday thickens",
+     "subtitle": "2 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-02"
+    },
+    {
+     "id": 30,
+     "title": "This date darkens clerk",
+     "subtitle": "5 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-05"
+    },
+    {
+     "id": 31,
+     "title": "City marks each field",
+     "subtitle": "8 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-08"
+    },
+    {
+     "id": 32,
+     "title": "That clock widens name",
+     "subtitle": "11 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-11"
+    },
+    {
+     "id": 33,
+     "title": "Unfinished winter",
+     "subtitle": "14 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-14"
+    },
+    {
+     "id": 34,
+     "title": "Photograph records",
+     "subtitle": "17 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-17"
+    },
+    {
+     "id": 35,
+     "title": "Sober method glass",
+     "subtitle": "20 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-20"
+    },
+    {
+     "id": 36,
+     "title": "One consequence prints",
+     "subtitle": "23 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-23"
+    },
+    {
+     "id": 37,
+     "title": "Newspaper remains",
+     "subtitle": "26 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-26"
+    },
+    {
+     "id": 38,
+     "title": "Printed sequence tape",
+     "subtitle": "29 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-29"
+    },
+    {
+     "id": 39,
+     "title": "Some known quantity",
+     "subtitle": "2 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-02"
+    },
+    {
+     "id": 40,
+     "title": "Thin signal remains",
+     "subtitle": "5 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-05"
+    },
+    {
+     "id": 41,
+     "title": "Late sparse atmosphere",
+     "subtitle": "8 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-08"
+    },
+    {
+     "id": 42,
+     "title": "Archive holds the form",
+     "subtitle": "11 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-11"
+    },
+    {
+     "id": 43,
+     "title": "Copies round a lamp",
+     "subtitle": "14 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-14"
+    },
+    {
+     "id": 44,
+     "title": "Our remainder files",
+     "subtitle": "17 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-17"
+    },
+    {
+     "id": 45,
+     "title": "Evidence darkens",
+     "subtitle": "20 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-20"
+    },
+    {
+     "id": 46,
+     "title": "Quiet granite stone",
+     "subtitle": "23 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-23"
+    },
+    {
+     "id": 47,
+     "title": "Our estimate weighs",
+     "subtitle": "26 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-26"
+    },
+    {
+     "id": 48,
+     "title": "Our blunt overcast",
+     "subtitle": "29 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-29"
+    },
+    {
+     "id": 49,
+     "title": "Coarse winter answers",
+     "subtitle": "1 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-01"
+    },
+    {
+     "id": 50,
+     "title": "District reads each hour",
+     "subtitle": "4 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-04"
+    },
+    {
+     "id": 51,
+     "title": "Darkens at one graph",
+     "subtitle": "7 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-07"
+    },
+    {
+     "id": 52,
+     "title": "Reported ledger",
+     "subtitle": "10 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-10"
+    },
+    {
+     "id": 53,
+     "title": "Orders in that date",
+     "subtitle": "13 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-13"
+    },
+    {
+     "id": 54,
+     "title": "Shadow cools no chalk",
+     "subtitle": "16 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-16"
+    },
+    {
+     "id": 55,
+     "title": "One sealed overcast",
+     "subtitle": "19 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-19"
+    },
+    {
+     "id": 56,
+     "title": "Listed shutter file",
+     "subtitle": "22 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-22"
+    }
+   ],
+   "article_count": 35,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "month",
+    "period_label": "Monthly",
+    "range": [
+     "2026-05-12",
+     "2026-08-22"
+    ]
+   }
   },
   {
    "file": "compilation_10_2026-08-01-2026-08-31.html",
    "url": "static/media/compilation_10_2026-08-01-2026-08-31.html",
    "ext": "html",
-   "size": 5249674,
-   "date": "2026-08-24",
+   "size": 5255118,
+   "date": "2026-08-22",
    "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-08-01 – 2026-08-31",
-   "cover": "static/uploads/_icon_f5f0ca9a42ee.png",
+   "cover": "static/uploads/_icon_a768d54e361d.png",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-08-01-2026-08-31",
    "year": "2026",
-   "author": null,
    "publication_id": 218,
-   "dtp_project_id": 200
+   "dtp_project_id": 200,
+   "author": null,
+   "contents": [
+    {
+     "id": 22,
+     "title": "Yearly paper street",
+     "subtitle": "12 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-12"
+    },
+    {
+     "id": 23,
+     "title": "Sufficient headline",
+     "subtitle": "15 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-15"
+    },
+    {
+     "id": 24,
+     "title": "Unlisted reading",
+     "subtitle": "18 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-18"
+    },
+    {
+     "id": 25,
+     "title": "Dry silence answers",
+     "subtitle": "21 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-21"
+    },
+    {
+     "id": 26,
+     "title": "Plain notice levels",
+     "subtitle": "24 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-24"
+    },
+    {
+     "id": 27,
+     "title": "One wide difference",
+     "subtitle": "27 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-27"
+    },
+    {
+     "id": 28,
+     "title": "Measures round this town",
+     "subtitle": "30 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-30"
+    },
+    {
+     "id": 29,
+     "title": "Yesterday thickens",
+     "subtitle": "2 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-02"
+    },
+    {
+     "id": 30,
+     "title": "This date darkens clerk",
+     "subtitle": "5 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-05"
+    },
+    {
+     "id": 31,
+     "title": "City marks each field",
+     "subtitle": "8 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-08"
+    },
+    {
+     "id": 32,
+     "title": "That clock widens name",
+     "subtitle": "11 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-11"
+    },
+    {
+     "id": 33,
+     "title": "Unfinished winter",
+     "subtitle": "14 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-14"
+    },
+    {
+     "id": 34,
+     "title": "Photograph records",
+     "subtitle": "17 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-17"
+    },
+    {
+     "id": 35,
+     "title": "Sober method glass",
+     "subtitle": "20 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-20"
+    },
+    {
+     "id": 36,
+     "title": "One consequence prints",
+     "subtitle": "23 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-23"
+    },
+    {
+     "id": 37,
+     "title": "Newspaper remains",
+     "subtitle": "26 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-26"
+    },
+    {
+     "id": 38,
+     "title": "Printed sequence tape",
+     "subtitle": "29 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-29"
+    },
+    {
+     "id": 39,
+     "title": "Some known quantity",
+     "subtitle": "2 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-02"
+    },
+    {
+     "id": 40,
+     "title": "Thin signal remains",
+     "subtitle": "5 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-05"
+    },
+    {
+     "id": 41,
+     "title": "Late sparse atmosphere",
+     "subtitle": "8 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-08"
+    },
+    {
+     "id": 42,
+     "title": "Archive holds the form",
+     "subtitle": "11 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-11"
+    },
+    {
+     "id": 43,
+     "title": "Copies round a lamp",
+     "subtitle": "14 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-14"
+    },
+    {
+     "id": 44,
+     "title": "Our remainder files",
+     "subtitle": "17 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-17"
+    },
+    {
+     "id": 45,
+     "title": "Evidence darkens",
+     "subtitle": "20 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-20"
+    },
+    {
+     "id": 46,
+     "title": "Quiet granite stone",
+     "subtitle": "23 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-23"
+    },
+    {
+     "id": 47,
+     "title": "Our estimate weighs",
+     "subtitle": "26 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-26"
+    },
+    {
+     "id": 48,
+     "title": "Our blunt overcast",
+     "subtitle": "29 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-29"
+    },
+    {
+     "id": 49,
+     "title": "Coarse winter answers",
+     "subtitle": "1 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-01"
+    },
+    {
+     "id": 50,
+     "title": "District reads each hour",
+     "subtitle": "4 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-04"
+    },
+    {
+     "id": 51,
+     "title": "Darkens at one graph",
+     "subtitle": "7 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-07"
+    },
+    {
+     "id": 52,
+     "title": "Reported ledger",
+     "subtitle": "10 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-10"
+    },
+    {
+     "id": 53,
+     "title": "Orders in that date",
+     "subtitle": "13 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-13"
+    },
+    {
+     "id": 54,
+     "title": "Shadow cools no chalk",
+     "subtitle": "16 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-16"
+    },
+    {
+     "id": 55,
+     "title": "One sealed overcast",
+     "subtitle": "19 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-19"
+    },
+    {
+     "id": 56,
+     "title": "Listed shutter file",
+     "subtitle": "22 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-22"
+    }
+   ],
+   "article_count": 35,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "month",
+    "period_label": "Monthly",
+    "range": [
+     "2026-05-12",
+     "2026-08-22"
+    ]
+   }
   },
   {
    "file": "broadsheet_2023_02.pdf",
    "url": "static/media/broadsheet_2023_02.pdf",
    "ext": "pdf",
-   "size": 1108131,
+   "size": 1100028,
    "date": "2023-02-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2023-02",
+   "title": "The Voice Express - February 2023",
    "cover": "static/uploads/_icon_e4d49ef66cea.png",
+   "read_file": "broadsheet_scroll_2023_02.html",
+   "read_url": "static/media/broadsheet_scroll_2023_02.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2023-02",
    "year": "2023",
-   "author": null,
    "publication_id": 220,
-   "dtp_project_id": 145
+   "dtp_project_id": 145,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2023-02"
+   }
   },
   {
    "file": "broadsheet_2023_03.pdf",
    "url": "static/media/broadsheet_2023_03.pdf",
    "ext": "pdf",
-   "size": 923063,
+   "size": 914051,
    "date": "2023-03-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2023-03",
+   "title": "The Voice Express - March 2023",
    "cover": "static/uploads/_icon_d0e13559278e.png",
+   "read_file": "broadsheet_scroll_2023_03.html",
+   "read_url": "static/media/broadsheet_scroll_2023_03.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2023-03",
    "year": "2023",
-   "author": null,
    "publication_id": 221,
-   "dtp_project_id": 151
+   "dtp_project_id": 151,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2023-03"
+   }
   },
   {
    "file": "broadsheet_2023_04.pdf",
    "url": "static/media/broadsheet_2023_04.pdf",
    "ext": "pdf",
-   "size": 1073191,
+   "size": 1064759,
    "date": "2023-04-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2023-04",
+   "title": "The Voice Express - April 2023",
    "cover": "static/uploads/_icon_b287ff5caea5.png",
+   "read_file": "broadsheet_scroll_2023_04.html",
+   "read_url": "static/media/broadsheet_scroll_2023_04.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2023-04",
    "year": "2023",
-   "author": null,
    "publication_id": 222,
-   "dtp_project_id": 152
+   "dtp_project_id": 152,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2023-04"
+   }
   },
   {
    "file": "broadsheet_2023_09.pdf",
    "url": "static/media/broadsheet_2023_09.pdf",
    "ext": "pdf",
-   "size": 1795456,
+   "size": 1785374,
    "date": "2023-09-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2023-09",
+   "title": "The Voice Express - September 2023",
    "cover": "static/uploads/_icon_83f35576f061.png",
+   "read_file": "broadsheet_scroll_2023_09.html",
+   "read_url": "static/media/broadsheet_scroll_2023_09.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2023-09",
    "year": "2023",
-   "author": null,
    "publication_id": 223,
-   "dtp_project_id": 82
+   "dtp_project_id": 82,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2023-09"
+   }
   },
   {
    "file": "broadsheet_2024_02.pdf",
    "url": "static/media/broadsheet_2024_02.pdf",
    "ext": "pdf",
-   "size": 2060247,
+   "size": 2055233,
    "date": "2024-02-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2024-02",
+   "title": "The Voice Express - February 2024",
    "cover": "static/uploads/_icon_b8e5a950f7fd.png",
+   "read_file": "broadsheet_scroll_2024_02.html",
+   "read_url": "static/media/broadsheet_scroll_2024_02.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2024-02",
    "year": "2024",
-   "author": null,
    "publication_id": 224,
-   "dtp_project_id": 57
+   "dtp_project_id": 57,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2024-02"
+   }
   },
   {
    "file": "broadsheet_2024_03.pdf",
    "url": "static/media/broadsheet_2024_03.pdf",
    "ext": "pdf",
-   "size": 880291,
+   "size": 873270,
    "date": "2024-03-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2024-03",
+   "title": "The Voice Express - March 2024",
    "cover": "static/uploads/_icon_6f559b53fc4f.png",
+   "read_file": "broadsheet_scroll_2024_03.html",
+   "read_url": "static/media/broadsheet_scroll_2024_03.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2024-03",
    "year": "2024",
-   "author": null,
    "publication_id": 225,
-   "dtp_project_id": 153
+   "dtp_project_id": 153,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2024-03"
+   }
   },
   {
    "file": "broadsheet_2024_04.pdf",
    "url": "static/media/broadsheet_2024_04.pdf",
    "ext": "pdf",
-   "size": 1028068,
+   "size": 931710,
    "date": "2024-04-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2024-04",
+   "title": "The Voice Express - April 2024",
    "cover": "static/uploads/_icon_1b3b3e4c6eb9.png",
+   "read_file": "broadsheet_scroll_2024_04.html",
+   "read_url": "static/media/broadsheet_scroll_2024_04.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2024-04",
    "year": "2024",
-   "author": null,
    "publication_id": 226,
-   "dtp_project_id": 154
+   "dtp_project_id": 154,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2024-04"
+   }
   },
   {
    "file": "broadsheet_2024_07.pdf",
    "url": "static/media/broadsheet_2024_07.pdf",
    "ext": "pdf",
-   "size": 1112581,
+   "size": 1105431,
    "date": "2024-07-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2024-07",
+   "title": "The Voice Express - July 2024",
    "cover": "static/uploads/_icon_b24368fa71e7.png",
+   "read_file": "broadsheet_scroll_2024_07.html",
+   "read_url": "static/media/broadsheet_scroll_2024_07.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2024-07",
    "year": "2024",
-   "author": null,
    "publication_id": 227,
-   "dtp_project_id": 155
+   "dtp_project_id": 155,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2024-07"
+   }
   },
   {
    "file": "broadsheet_2024_08.pdf",
    "url": "static/media/broadsheet_2024_08.pdf",
    "ext": "pdf",
-   "size": 1272874,
+   "size": 1265296,
    "date": "2024-08-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2024-08",
+   "title": "The Voice Express - August 2024",
    "cover": "static/uploads/_icon_fa8d24f72762.png",
+   "read_file": "broadsheet_scroll_2024_08.html",
+   "read_url": "static/media/broadsheet_scroll_2024_08.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2024-08",
    "year": "2024",
-   "author": null,
    "publication_id": 228,
-   "dtp_project_id": 156
+   "dtp_project_id": 156,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2024-08"
+   }
   },
   {
    "file": "broadsheet_2024_09.pdf",
    "url": "static/media/broadsheet_2024_09.pdf",
    "ext": "pdf",
-   "size": 1766765,
+   "size": 1759866,
    "date": "2024-09-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2024-09",
+   "title": "The Voice Express - September 2024",
    "cover": "static/uploads/_icon_c70abcd4ff60.png",
+   "read_file": "broadsheet_scroll_2024_09.html",
+   "read_url": "static/media/broadsheet_scroll_2024_09.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2024-09",
    "year": "2024",
-   "author": null,
    "publication_id": 229,
-   "dtp_project_id": 157
+   "dtp_project_id": 157,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2024-09"
+   }
   },
   {
    "file": "broadsheet_2024_10.pdf",
    "url": "static/media/broadsheet_2024_10.pdf",
    "ext": "pdf",
-   "size": 3180444,
+   "size": 3173251,
    "date": "2024-10-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2024-10",
+   "title": "The Voice Express - October 2024",
    "cover": "static/uploads/_icon_79fff5ad2bca.png",
+   "read_file": "broadsheet_scroll_2024_10.html",
+   "read_url": "static/media/broadsheet_scroll_2024_10.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2024-10",
    "year": "2024",
-   "author": null,
    "publication_id": 230,
-   "dtp_project_id": 158
+   "dtp_project_id": 158,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2024-10"
+   }
   },
   {
    "file": "broadsheet_2025_01.pdf",
    "url": "static/media/broadsheet_2025_01.pdf",
    "ext": "pdf",
-   "size": 1813086,
+   "size": 1804067,
    "date": "2025-01-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2025-01",
+   "title": "The Voice Express - January 2025",
    "cover": "static/uploads/_icon_fe1a9be5aae8.png",
+   "read_file": "broadsheet_scroll_2025_01.html",
+   "read_url": "static/media/broadsheet_scroll_2025_01.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2025-01",
    "year": "2025",
-   "author": null,
    "publication_id": 231,
-   "dtp_project_id": 148
+   "dtp_project_id": 148,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2025-01"
+   }
   },
   {
    "file": "broadsheet_2025_07.pdf",
    "url": "static/media/broadsheet_2025_07.pdf",
    "ext": "pdf",
-   "size": 576858,
+   "size": 570989,
    "date": "2025-07-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2025-07",
+   "title": "The Voice Express - July 2025",
    "cover": "static/uploads/_icon_58c0b9ebde60.png",
+   "read_file": "broadsheet_scroll_2025_07.html",
+   "read_url": "static/media/broadsheet_scroll_2025_07.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2025-07",
    "year": "2025",
-   "author": null,
    "publication_id": 232,
-   "dtp_project_id": 159
+   "dtp_project_id": 159,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2025-07"
+   }
   },
   {
    "file": "broadsheet_2025_12.pdf",
    "url": "static/media/broadsheet_2025_12.pdf",
    "ext": "pdf",
-   "size": 636731,
+   "size": 628059,
    "date": "2025-12-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2025-12",
+   "title": "The Voice Express - December 2025",
    "cover": "static/uploads/_icon_89bf0495f2cd.png",
+   "read_file": "broadsheet_scroll_2025_12.html",
+   "read_url": "static/media/broadsheet_scroll_2025_12.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2025-12",
    "year": "2025",
-   "author": null,
    "publication_id": 233,
-   "dtp_project_id": 160
+   "dtp_project_id": 160,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2025-12"
+   }
   },
   {
    "file": "broadsheet_2026_01.pdf",
    "url": "static/media/broadsheet_2026_01.pdf",
    "ext": "pdf",
-   "size": 540708,
+   "size": 532054,
    "date": "2026-01-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2026-01",
+   "title": "The Voice Express - January 2026",
    "cover": "static/uploads/_icon_3930c2e98472.png",
+   "read_file": "broadsheet_scroll_2026_01.html",
+   "read_url": "static/media/broadsheet_scroll_2026_01.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2026-01",
    "year": "2026",
-   "author": null,
    "publication_id": 234,
-   "dtp_project_id": 161
+   "dtp_project_id": 161,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2026-01"
+   }
   },
   {
    "file": "broadsheet_2026_03.pdf",
    "url": "static/media/broadsheet_2026_03.pdf",
    "ext": "pdf",
-   "size": 3882067,
+   "size": 3870524,
    "date": "2026-03-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2026-03",
+   "title": "The Voice Express - March 2026",
    "cover": "static/uploads/_icon_943283e8961d.png",
+   "read_file": "broadsheet_scroll_2026_03.html",
+   "read_url": "static/media/broadsheet_scroll_2026_03.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2026-03",
    "year": "2026",
-   "author": null,
    "publication_id": 235,
-   "dtp_project_id": 162
+   "dtp_project_id": 162,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2026-03"
+   }
   },
   {
    "file": "broadsheet_2026_04.pdf",
    "url": "static/media/broadsheet_2026_04.pdf",
    "ext": "pdf",
-   "size": 548737,
+   "size": 539467,
    "date": "2026-04-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2026-04",
+   "title": "The Voice Express - April 2026",
    "cover": "static/uploads/_icon_1e877ff5af00.png",
+   "read_file": "broadsheet_scroll_2026_04.html",
+   "read_url": "static/media/broadsheet_scroll_2026_04.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2026-04",
    "year": "2026",
-   "author": null,
    "publication_id": 236,
-   "dtp_project_id": 173
+   "dtp_project_id": 173,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2026-04"
+   }
   },
   {
    "file": "broadsheet_2026_07.pdf",
    "url": "static/media/broadsheet_2026_07.pdf",
    "ext": "pdf",
-   "size": 1011217,
+   "size": 973954,
    "date": "2026-07-01",
    "tags": [],
-   "subtitle": "Monthly edition",
+   "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - July 2026",
    "cover": "static/uploads/_icon_8a15e6129f95.png",
+   "read_file": "broadsheet_scroll_2026_07.html",
+   "read_url": "static/media/broadsheet_scroll_2026_07.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2026-07",
    "year": "2026",
-   "author": null,
    "publication_id": 237,
-   "dtp_project_id": null
+   "dtp_project_id": 229,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2026-07"
+   }
   },
   {
-   "file": "gazette_100.html",
-   "url": "static/media/gazette_100.html",
-   "ext": "html",
-   "size": 931948,
+   "file": "gazette_100.pdf",
+   "url": "static/media/gazette_100.pdf",
+   "ext": "pdf",
+   "size": 1074167,
    "date": "2024-07-16",
    "tags": [
-    "PLAYING",
-    "GAMES",
-    "OCCUPIED"
+    "Israel",
+    "Occupation",
+    "Palestine",
+    "West Bank"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "\"It's Okay, They're Just Playing With Us\": Games of the Gun from the Occupied West Bank",
+   "title": "Gazette: \"It's Okay, They're Just Playing With Us\": Games of the Gun from the Occupied West Bank",
    "cover": "static/uploads/_icon_39c03086570e.png",
+   "read_file": "gazette_100.html",
+   "read_url": "static/media/gazette_100.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-100",
    "year": "2024",
-   "author": null,
    "publication_id": 238,
-   "dtp_project_id": 120
+   "dtp_project_id": 120,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "A report on a practice documented in the occupied West Bank, where soldiers from Israeli settlements use laser sights from sniper rifles to play 'statue' with Palestinian families, forcing people to freeze on command. On the mundane, psychological texture of long-term military occupation.",
+   "reading_time": 6,
+   "category": "Reports",
+   "section_name": "International",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_101.html",
-   "url": "static/media/gazette_101.html",
-   "ext": "html",
-   "size": 179779,
+   "file": "gazette_101.pdf",
+   "url": "static/media/gazette_101.pdf",
+   "ext": "pdf",
+   "size": 412202,
    "date": "2024-07-25",
    "tags": [
-    "SUBRAMANIAN",
-    "BEING",
-    "TARGETED",
-    "BECAUSE",
-    "DARED",
-    "RELATIONSHIP",
-    "INDIAN",
-    "CASTE",
-    "SYSTEM",
-    "VEDIC"
+    "Academic Freedom",
+    "Caste",
+    "ICME",
+    "Vedic Mathematics"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "“Professor Subramanian is Being Targeted Because She Dared to Call Out the Relationship of the Indian Caste System with Vedic Mathematics”",
+   "title": "Gazette: “Professor Subramanian is Being Targeted Because She Dared to Call Out the Relationship of the Indian Caste System with Vedic Mathematics”",
    "cover": "static/uploads/_icon_441f6c3de90f.png",
+   "read_file": "gazette_101.html",
+   "read_url": "static/media/gazette_101.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-101",
    "year": "2024",
-   "author": null,
    "publication_id": 239,
-   "dtp_project_id": 121
+   "dtp_project_id": 121,
+   "byline": "Theodore Chao",
+   "authors": [
+    {
+     "name": "Theodore Chao",
+     "role": "author"
+    }
+   ],
+   "description": "Ohio State mathematics education professor Theodore Chao's eyewitness testimony of Dr. Jayasree Subramanian's expulsion from the 15th International Congress on Mathematical Education in Sydney, removed from the conference for questioning the caste politics embedded in a session promoting Vedic mathematics.",
+   "reading_time": 9,
+   "category": "Opinion",
+   "section_name": "Education",
+   "author": "Theodore Chao",
+   "article_count": 1
   },
   {
-   "file": "gazette_102.html",
-   "url": "static/media/gazette_102.html",
-   "ext": "html",
-   "size": 955468,
+   "file": "gazette_102.pdf",
+   "url": "static/media/gazette_102.pdf",
+   "ext": "pdf",
+   "size": 1106373,
    "date": "2024-07-25",
    "tags": [
-    "INDIAN",
-    "PROFESSOR",
-    "EXPELLED",
-    "COMMENTS",
-    "DURING",
-    "VEDIC",
-    "SESSION"
+    "Academic Freedom",
+    "Caste",
+    "ICME",
+    "Vedic Mathematics"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Indian Professor Expelled from ICME’15 for Caste-Critical Comments During Vedic Math Session",
+   "title": "Gazette: Indian Professor Expelled from ICME’15 for Caste-Critical Comments During Vedic Math Session",
    "cover": "static/uploads/_icon_da9d561d5298.png",
+   "read_file": "gazette_102.html",
+   "read_url": "static/media/gazette_102.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-102",
    "year": "2024",
-   "author": null,
    "publication_id": 240,
-   "dtp_project_id": 122
+   "dtp_project_id": 122,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "On 12th July 2024, Professor Jayasree Subramanian was physically escorted from ICME-15 in Sydney and stripped of her registration after raising questions about caste and Brahminical supremacy during a session on Vedic mathematics, a report on the incident, the testimony that circulated in its wake, and what it says about academic gatekeeping.",
+   "reading_time": 6,
+   "category": "Reports",
+   "section_name": "Education",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_103.html",
-   "url": "static/media/gazette_103.html",
-   "ext": "html",
-   "size": 1297200,
+   "file": "gazette_103.pdf",
+   "url": "static/media/gazette_103.pdf",
+   "ext": "pdf",
+   "size": 3930952,
    "date": "2024-08-11",
-   "tags": [],
+   "tags": [
+    "Media Trial",
+    "Misogyny",
+    "Smriti Singh",
+    "Vinesh Phogat"
+   ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Kuch Toh Log",
+   "title": "Gazette: Kuch Toh Log",
    "cover": "static/uploads/_icon_b98b728aa043.png",
+   "read_file": "gazette_103.html",
+   "read_url": "static/media/gazette_103.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-103",
    "year": "2024",
-   "author": null,
    "publication_id": 241,
-   "dtp_project_id": 123
+   "dtp_project_id": 123,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "A day after Vinesh Phogat's stunning Olympic disqualification, an analysis of the media and political machinery that shaped public perception of the wrestler, tracing the arc from the 2023 Wrestlers' Protest against BJP MP Brij Bhushan to the disinformation campaigns that followed her to Paris.",
+   "reading_time": 33,
+   "category": "Reports",
+   "section_name": "Gender",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_104.html",
-   "url": "static/media/gazette_104.html",
-   "ext": "html",
-   "size": 1119573,
+   "file": "gazette_104.pdf",
+   "url": "static/media/gazette_104.pdf",
+   "ext": "pdf",
+   "size": 3380783,
    "date": "2024-09-02",
-   "tags": [],
+   "tags": [
+    "Caste",
+    "Domestic Workers",
+    "RG Kar",
+    "Reclaim The Night"
+   ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Jai Bhim Kunj",
+   "title": "Gazette: Jai Bhim Kunj",
    "cover": "static/uploads/_icon_982935d50e4a.png",
+   "read_file": "gazette_104.html",
+   "read_url": "static/media/gazette_104.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-104",
    "year": "2024",
-   "author": null,
    "publication_id": 242,
-   "dtp_project_id": 124
+   "dtp_project_id": 124,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "On two kinds of hijacking, the demolition of Jai Bhim Nagar in Mumbai's Hiranandani complex, and the suppression of Dalit and working-class voices within Delhi's 'apolitical' Reclaim the Night protests. An editorial on who gets to own a movement's grief, and what solidarity means when it is curated.",
+   "reading_time": 19,
+   "category": "Reports",
+   "section_name": "Politics",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_105.html",
-   "url": "static/media/gazette_105.html",
-   "ext": "html",
-   "size": 175104,
+   "file": "gazette_105.pdf",
+   "url": "static/media/gazette_105.pdf",
+   "ext": "pdf",
+   "size": 408918,
    "date": "2024-10-10",
    "tags": [
-    "FICKLE",
-    "COLLECTIVE",
-    "DELHI",
-    "SECRETARY",
-    "STATEMENT",
-    "AGAINST",
-    "POSTHUMOUS",
-    "VENERATION",
-    "RATAN"
+    "Capitalism",
+    "Collective",
+    "Labour",
+    "Ratan Tata"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Fickle Grief: COLLECTIVE Delhi Secretary Sourya’s Full Statement Against the Posthumous Veneration of Ratan N. Tata",
+   "title": "Gazette: Fickle Grief: COLLECTIVE Delhi Secretary Sourya’s Full Statement Against the Posthumous Veneration of Ratan N. Tata",
    "cover": "static/uploads/_icon_d8cf720dd351.png",
+   "read_file": "gazette_105.html",
+   "read_url": "static/media/gazette_105.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-105",
    "year": "2024",
-   "author": null,
    "publication_id": 243,
-   "dtp_project_id": 125
+   "dtp_project_id": 125,
+   "byline": "Sourya",
+   "authors": [
+    {
+     "name": "Sourya",
+     "role": "author"
+    }
+   ],
+   "description": "COLLECTIVE Delhi's General Secretary Sourya's full statement on the posthumous veneration of Ratan N. Tata, challenging the media narrative of ethical entrepreneurship with a record of the Tata Group's land acquisitions, displacement of communities, and the selective memory that public mourning makes both possible and convenient.",
+   "reading_time": 6,
+   "category": "Press Releases",
+   "section_name": "Labour",
+   "author": "Sourya",
+   "article_count": 1
   },
   {
-   "file": "gazette_106.html",
-   "url": "static/media/gazette_106.html",
-   "ext": "html",
-   "size": 1047452,
+   "file": "gazette_106.pdf",
+   "url": "static/media/gazette_106.pdf",
+   "ext": "pdf",
+   "size": 1312675,
    "date": "2024-10-12",
    "tags": [
-    "SPOKEN",
-    "CONTINUE",
-    "LEFTIST",
-    "YOUTH",
-    "GROUP",
-    "SLAMS",
-    "RATAN",
-    "FOREIGN",
-    "NATIONAL",
-    "PRESS"
+    "Capitalism",
+    "Collective",
+    "Media Criticism",
+    "Ratan Tata"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "“Have Spoken Ill of Him in Life, Will Continue to Do So in Death” – Leftist Youth Group Slams ‘Posthumous Veneration’ of Ratan Tata by Foreign & National Press",
+   "title": "Gazette: “Have Spoken Ill of Him in Life, Will Continue to Do So in Death” – Leftist Youth Group Slams ‘Posthumous Veneration’ of Ratan Tata by Foreign &amp; National Press",
    "cover": "static/uploads/_icon_fdab13718b1b.png",
+   "read_file": "gazette_106.html",
+   "read_url": "static/media/gazette_106.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-106",
    "year": "2024",
-   "author": null,
    "publication_id": 244,
-   "dtp_project_id": 126
+   "dtp_project_id": 126,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "As politicians and press commemorated Ratan Tata's death with state funeral proposals and Bharat Ratna nominations, COLLECTIVE Delhi released a statement refusing to observe the silence demanded by mourning, recounting the Tata Group's documented history of forceful land acquisition and labour suppression that his philanthropic image was built to obscure.",
+   "reading_time": 18,
+   "category": "Reports",
+   "section_name": "Politics",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_107.html",
-   "url": "static/media/gazette_107.html",
-   "ext": "html",
-   "size": 247127,
+   "file": "gazette_107.pdf",
+   "url": "static/media/gazette_107.pdf",
+   "ext": "pdf",
+   "size": 14381098,
    "date": "2024-10-15",
-   "tags": [],
+   "tags": [
+    "G.N. Saibaba",
+    "Political Prisoners",
+    "Press Freedom",
+    "UAPA"
+   ],
    "subtitle": null,
    "type": "gazette",
-   "title": "“They Don’t Know How to Kill Me”",
+   "title": "Gazette: “They Don’t Know How to Kill Me”",
    "cover": "static/uploads/_icon_2c5ed8cba153.png",
+   "read_file": "gazette_107.html",
+   "read_url": "static/media/gazette_107.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-107",
    "year": "2024",
-   "author": null,
    "publication_id": 245,
-   "dtp_project_id": 127
+   "dtp_project_id": 127,
+   "byline": "Kandarp",
+   "authors": [
+    {
+     "name": "Kandarp",
+     "role": "author"
+    }
+   ],
+   "description": "G.N. Saibaba, professor, disability rights activist, and political prisoner, spent 3,592 days in the solitary confinement of Nagpur Central Jail under UAPA charges before dying on 12th October 2024. A tribute and an account of the draconian legal machinery used to silence him, written from outside the gates of JNU.",
+   "reading_time": 16,
+   "category": "Reports",
+   "section_name": "Politics",
+   "author": "Kandarp",
+   "article_count": 1
   },
   {
-   "file": "gazette_108.html",
-   "url": "static/media/gazette_108.html",
-   "ext": "html",
-   "size": 1162243,
+   "file": "gazette_108.pdf",
+   "url": "static/media/gazette_108.pdf",
+   "ext": "pdf",
+   "size": 9122633,
    "date": "2024-10-17",
    "tags": [
-    "THEIR",
-    "LABOUR",
-    "ACTIVISTS",
-    "AHEAD",
-    "MARUTI",
-    "SUZUKI",
-    "MARCH",
-    "IMPLORE",
-    "PUBLIC"
+    "Labour",
+    "Maruti Suzuki",
+    "Trade Unions",
+    "Workers Struggle"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "“Companies Have Made Up Their Own Law”: Labour Unions, Activists Host PC Ahead of Maruti Suzuki Workers’ ‘Chalo IMT’ March on Friday, Implore Public to Join",
+   "title": "Gazette: “Companies Have Made Up Their Own Law”: Labour Unions, Activists Host PC Ahead of Maruti Suzuki Workers’ ‘Chalo IMT’ March on Friday, Implore Public to Join",
    "cover": "static/uploads/_icon_44082ecd4ea9.png",
+   "read_file": "gazette_108.html",
+   "read_url": "static/media/gazette_108.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-108",
    "year": "2024",
-   "author": null,
    "publication_id": 246,
-   "dtp_project_id": 128
+   "dtp_project_id": 128,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "At the Press Club of India on 16th October 2024, representatives of four major ignored workers' struggles, Maruti-Suzuki, Samsung India, Dolphin-Lucas TVS, and Darjeeling's tea plantation workers, held a press conference to address the near-total absence of media coverage of their movements, ahead of the 'Chalo IMT' march.",
+   "reading_time": 12,
+   "category": "Reports",
+   "section_name": "Labour",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_109.html",
-   "url": "static/media/gazette_109.html",
-   "ext": "html",
-   "size": 1145817,
+   "file": "gazette_109.pdf",
+   "url": "static/media/gazette_109.pdf",
+   "ext": "pdf",
+   "size": 1118324,
    "date": "2025-01-06",
    "tags": [
-    "EQUAL",
-    "WORKERS",
-    "ESTABLISH",
-    "HANDS",
-    "PROTESTING",
-    "TERMINATED",
-    "WORKERS"
+    "Contract Labour",
+    "Labour",
+    "Maruti Suzuki",
+    "Trade Unions"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "'Equal Work, Equal Pay': 'Temporary' Maruti-Suzuki Workers Establish Union, Join Hands With Protesting Terminated Workers",
+   "title": "Gazette: 'Equal Work, Equal Pay': 'Temporary' Maruti-Suzuki Workers Establish Union, Join Hands With Protesting Terminated Workers",
    "cover": "static/uploads/_icon_72e51c1c7b1d.png",
+   "read_file": "gazette_109.html",
+   "read_url": "static/media/gazette_109.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-109",
    "year": "2025",
-   "author": null,
    "publication_id": 247,
-   "dtp_project_id": 129
+   "dtp_project_id": 129,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "The official press release of the Maruti Suzuki Asthayi Mazdoor Sangh, founded on 5th January 2025 in a mass meeting of over three thousand non-permanent workers at Gurgaon, announcing the union's formation, its charter of demands, and its solidarity with the already-protesting terminated workers.",
+   "reading_time": 3,
+   "category": "Press Releases",
+   "section_name": "Labour",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_110.html",
-   "url": "static/media/gazette_110.html",
-   "ext": "html",
-   "size": 217747,
+   "file": "gazette_110.pdf",
+   "url": "static/media/gazette_110.pdf",
+   "ext": "pdf",
+   "size": 477752,
    "date": "2025-01-07",
    "tags": [
-    "PERSONIFICATION",
-    "LAUDED",
-    "NATIONAL",
-    "JOURNALIST",
-    "DEEPANKAR",
-    "GHOSE",
-    "REMEMBERS",
-    "MUKESH",
-    "CRITICISES",
-    "TREATMENT",
-    "REGIONAL",
-    "REPORTERS"
+    "Bastar",
+    "Journalism",
+    "Mukesh Chandrakar",
+    "Press Freedom"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "“He was the Personification of Bravery”: Lauded National Journalist Deepankar Ghose Remembers Mukesh Chandrakar, Criticises Treatment of Regional Reporters",
+   "title": "Gazette: “He was the Personification of Bravery”: Lauded National Journalist Deepankar Ghose Remembers Mukesh Chandrakar, Criticises Treatment of Regional Reporters",
    "cover": "static/uploads/_icon_6874d5b53b81.png",
+   "read_file": "gazette_110.html",
+   "read_url": "static/media/gazette_110.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-110",
    "year": "2025",
-   "author": null,
    "publication_id": 248,
-   "dtp_project_id": 130
+   "dtp_project_id": 130,
+   "byline": "Dipankar Ghose",
+   "authors": [
+    {
+     "name": "Dipankar Ghose",
+     "role": "author"
+    }
+   ],
+   "description": "Dipankar Ghose, Deputy National Editor at Hindustan Times, remembers his friend Mukesh Chandrakar, the Bastar-based journalist found dead in a septic tank at the property of a contractor he had exposed, in an 18-part eulogy on X that speaks to the unequal risks borne by regional and independent reporters in India.",
+   "reading_time": 5,
+   "category": "Editorials",
+   "section_name": "Media",
+   "author": "Dipankar Ghose",
+   "article_count": 1
   },
   {
-   "file": "gazette_111.html",
-   "url": "static/media/gazette_111.html",
-   "ext": "html",
-   "size": 1150088,
+   "file": "gazette_111.pdf",
+   "url": "static/media/gazette_111.pdf",
+   "ext": "pdf",
+   "size": 1213581,
    "date": "2025-01-11",
    "tags": [
-    "NEWLY",
-    "FORMED",
-    "UNION",
-    "EMPLOYEES",
-    "INTENSIFIES",
-    "CALLS",
-    "ABUSE",
-    "CONTRACT",
-    "WORKERS"
+    "Contract Labour",
+    "Labour",
+    "Maruti Suzuki",
+    "Trade Unions"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "“Not Your Footballs!” Newly Formed Union of Non-Permanent Maruti-Suzuki Employees Intensifies Agitation, Calls Out Abuse of Contract Workers",
+   "title": "Gazette: “Not Your Footballs!” Newly Formed Union of Non-Permanent Maruti-Suzuki Employees Intensifies Agitation, Calls Out Abuse of Contract Workers",
    "cover": "static/uploads/_icon_f9d333686471.png",
+   "read_file": "gazette_111.html",
+   "read_url": "static/media/gazette_111.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-111",
    "year": "2025",
-   "author": null,
    "publication_id": 249,
-   "dtp_project_id": 131
+   "dtp_project_id": 131,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "Thousands of current and former non-permanent Maruti-Suzuki workers gathered at the Gurgaon DC office on 10th January 2025 to submit their charter of demands, challenging the company's hire-and-fire labour practices and demanding equal pay and permanent employment alongside the already-protesting terminated workers.",
+   "reading_time": 6,
+   "category": "Press Releases",
+   "section_name": "Labour",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_112.html",
-   "url": "static/media/gazette_112.html",
-   "ext": "html",
-   "size": 1160356,
+   "file": "gazette_112.pdf",
+   "url": "static/media/gazette_112.pdf",
+   "ext": "pdf",
+   "size": 43465912,
    "date": "2025-01-30",
    "tags": [
-    "POLICE",
-    "VIOLENCE",
-    "AGAINST",
-    "PROTESTING",
-    "MARUTI",
-    "WORKERS",
-    "INTENSIFIES",
-    "AHEAD",
-    "TRIPARTITE",
-    "VIOLATES",
-    "COURT",
-    "ORDER"
+    "IMT Manesar",
+    "Labour",
+    "Maruti Suzuki",
+    "Police Violence"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "'Section 144' at IMT Manesar: Police Violence Against Protesting Maruti Workers Intensifies Ahead of Tripartite Meet, Violates Court Order",
+   "title": "Gazette: 'Section 144' at IMT Manesar: Police Violence Against Protesting Maruti Workers Intensifies Ahead of Tripartite Meet, Violates Court Order",
    "cover": "static/uploads/_icon_d74d10dde8af.png",
+   "read_file": "gazette_112.html",
+   "read_url": "static/media/gazette_112.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-112",
    "year": "2025",
-   "author": null,
    "publication_id": 250,
-   "dtp_project_id": 132
+   "dtp_project_id": 132,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "Haryana police deployed in force on 29th-30th January 2025 to disrupt the Maruti Suzuki Asthayi Mazdoor Sangh's planned mass demonstration at IMT Manesar, invoking Section 144 of the now-obsolete IPC despite a court order permitting the gathering. A photo essay and press release from the scene.",
+   "reading_time": 12,
+   "category": "Reports",
+   "section_name": "Labour",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_113.html",
-   "url": "static/media/gazette_113.html",
-   "ext": "html",
-   "size": 1146647,
+   "file": "gazette_113.pdf",
+   "url": "static/media/gazette_113.pdf",
+   "ext": "pdf",
+   "size": 1173501,
    "date": "2025-07-22",
    "tags": [
-    "PEACEFUL",
-    "PALESTINE",
-    "SOLIDARITY",
-    "DELHI",
-    "ROUGH",
-    "WEATHER"
+    "Israel",
+    "Palestine",
+    "Protest",
+    "Solidarity"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Peaceful Palestine Solidarity Demo in New Delhi Runs Into Rough Weather",
+   "title": "Gazette: Peaceful Palestine Solidarity Demo in New Delhi Runs Into Rough Weather",
    "cover": "static/uploads/_icon_b632c5e69d01.png",
+   "read_file": "gazette_113.html",
+   "read_url": "static/media/gazette_113.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-113",
    "year": "2025",
-   "author": null,
    "publication_id": 251,
-   "dtp_project_id": 133
+   "dtp_project_id": 133,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "A press note from the civil society coalition, including students, academics, economist Jean Drèze, and former IAS officer Harsh Mander, that organised a silent Palestine solidarity demonstration at Delhi's Nehru Place on 29th July 2025, and encountered mob violence and police threats for doing so.",
+   "reading_time": 3,
+   "category": "Press Releases",
+   "section_name": "International",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_114.html",
-   "url": "static/media/gazette_114.html",
-   "ext": "html",
-   "size": 310179,
+   "file": "gazette_114.pdf",
+   "url": "static/media/gazette_114.pdf",
+   "ext": "pdf",
+   "size": 571938,
    "date": "2025-12-18",
    "tags": [
-    "RAKHA",
-    "JAYEGA"
+    "CAA",
+    "Hindutva",
+    "Jamia Millia Islamia",
+    "NRC",
+    "Student Movement"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Sab Kuch Yaad Rakha Jayega",
+   "title": "Gazette: Sab Kuch Yaad Rakha Jayega",
    "cover": "static/uploads/_icon_e12294d4afcb.png",
+   "read_file": "gazette_114.html",
+   "read_url": "static/media/gazette_114.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-114",
    "year": "2025",
-   "author": null,
    "publication_id": 252,
-   "dtp_project_id": 134
+   "dtp_project_id": 134,
+   "byline": "Anjan Azad",
+   "authors": [
+    {
+     "name": "Anjan Azad",
+     "role": "author"
+    }
+   ],
+   "description": "Six years after police entered Jamia Millia Islamia's campus without notice, vandalized the library, and attacked students, unwittingly triggering the historic Shaheen Bagh movement against CAA-NRC, law student and activist Anjan Azad bears testimony to what happened that December, and what has not changed since.",
+   "reading_time": 10,
+   "category": "Opinion",
+   "section_name": "Politics",
+   "author": "Anjan Azad",
+   "article_count": 1
   },
   {
-   "file": "gazette_115.html",
-   "url": "static/media/gazette_115.html",
-   "ext": "html",
-   "size": 1159384,
+   "file": "gazette_115.pdf",
+   "url": "static/media/gazette_115.pdf",
+   "ext": "pdf",
+   "size": 1238865,
    "date": "2026-01-30",
    "tags": [
-    "ORGANISATIONS",
-    "DEMAND",
-    "WITHDRAWAL",
-    "BILATERAL",
-    "INVESTMENT",
-    "AGREEMENT",
-    "ISRAEL",
-    "AMIDST",
-    "ONGOING",
-    "GENOCIDE"
+    "Arms Trade",
+    "India-Israel Relations",
+    "Israel",
+    "Palestine"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "'Matters of Money': 43 Organisations Demand India's Withdrawal From Bilateral Investment Agreement with Israel Amidst Ongoing Genocide In Gaza",
+   "title": "Gazette: 'Matters of Money': 43 Organisations Demand India's Withdrawal From Bilateral Investment Agreement with Israel Amidst Ongoing Genocide In Gaza",
    "cover": "static/uploads/_icon_0952265515de.png",
+   "read_file": "gazette_115.html",
+   "read_url": "static/media/gazette_115.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-115",
    "year": "2026",
-   "author": null,
    "publication_id": 253,
-   "dtp_project_id": 135
+   "dtp_project_id": 135,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "On 8th September 2025, India and Israel's finance ministers signed a Bilateral Investment Agreement in New Delhi. Forty-three organisations and forty-seven individuals released an open letter calling on India to withdraw from the treaty, calling it a material contribution to an ongoing genocide in Gaza.",
+   "reading_time": 8,
+   "category": "Reports",
+   "section_name": "International",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_116.html",
-   "url": "static/media/gazette_116.html",
-   "ext": "html",
-   "size": 1150535,
+   "file": "gazette_116.pdf",
+   "url": "static/media/gazette_116.pdf",
+   "ext": "pdf",
+   "size": 12368185,
    "date": "2026-03-24",
    "tags": [
-    "BENGAL",
-    "LEGACY",
-    "INTERNATIONAL"
+    "International Women's Day",
+    "Photo Essay",
+    "Protest",
+    "RG Kar"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Bengal Remembers: Sengar, Epstein, and RG Kar's Legacy on International Women's Day in 2026",
+   "title": "Gazette: Bengal Remembers: Sengar, Epstein, and RG Kar's Legacy on International Women's Day in 2026",
    "cover": "static/uploads/_icon_cdce4ed6906c.png",
+   "read_file": "gazette_116.html",
+   "read_url": "static/media/gazette_116.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-116",
    "year": "2026",
-   "author": null,
    "publication_id": 254,
-   "dtp_project_id": 136
+   "dtp_project_id": 136,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "A photo essay from International Women's Day, 8th March 2026, at Jantar Mantar, where women from six to sixty gathered to protest the BJP government's neglect of women's safety and welfare, express solidarity with the women of Palestine and Iran, and raise demands for dignity, health, and work.",
+   "reading_time": 3,
+   "category": "Photo Essays",
+   "section_name": "Gender",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_117.html",
-   "url": "static/media/gazette_117.html",
-   "ext": "html",
-   "size": 286247,
+   "file": "gazette_117.pdf",
+   "url": "static/media/gazette_117.pdf",
+   "ext": "pdf",
+   "size": 733294,
    "date": "2026-04-03",
    "tags": [
-    "NAMAAZ"
+    "Dissent",
+    "Illustration",
+    "Political Prisoners",
+    "Sharjeel Imam"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Ek Waqt ki Namaaz",
+   "title": "Gazette: Ek Waqt ki Namaaz",
    "cover": "static/uploads/_icon_39968567392f.png",
+   "read_file": "gazette_117.html",
+   "read_url": "static/media/gazette_117.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-117",
    "year": "2026",
-   "author": null,
    "publication_id": 255,
-   "dtp_project_id": 137
+   "dtp_project_id": 137,
+   "byline": "Firaaq",
+   "authors": [
+    {
+     "name": "Firaaq",
+     "role": "author"
+    }
+   ],
+   "description": "A seven-panel illustrated essay by journalist and activist Firaaq, written from the experience of his own arrests at the India Gate and JNU Long March protests, on Sharjeel Imam's return to Tihar jail, and what it means to witness the state's appetite for detention from inside a cell. Illustrated by Mouli Sharma.",
+   "reading_time": 1,
+   "category": "Photo Essays",
+   "section_name": "Politics",
+   "author": "Firaaq",
+   "article_count": 1
   },
   {
-   "file": "gazette_67.html",
-   "url": "static/media/gazette_67.html",
-   "ext": "html",
-   "size": 952397,
+   "file": "gazette_67.pdf",
+   "url": "static/media/gazette_67.pdf",
+   "ext": "pdf",
+   "size": 987202,
    "date": "2023-02-12",
    "tags": [
-    "ENDEMIC",
-    "ECOSYSTEMS"
+    "Delhi University",
+    "NCC",
+    "Reportage",
+    "Student Culture"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "The Endemic Ecosystems of DU Sub Fests: CADET’23",
+   "title": "Gazette: The Endemic Ecosystems of DU Sub Fests: CADET’23",
    "cover": "static/uploads/_icon_6dcf4680f0b2.png",
+   "read_file": "gazette_67.html",
+   "read_url": "static/media/gazette_67.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-67",
    "year": "2023",
-   "author": null,
    "publication_id": 256,
-   "dtp_project_id": 98
+   "dtp_project_id": 98,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "A dispatch from Kirori Mal College's CADET'23, Delhi University's annual NCC fest, where twenty-three institutions gathered and found, as usual, nothing much to say to one another. On the recursive culture of apathy that defines DU's sub-fest circuit.",
+   "reading_time": 5,
+   "category": "Reports",
+   "section_name": "Education",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_68.html",
-   "url": "static/media/gazette_68.html",
-   "ext": "html",
-   "size": 960053,
+   "file": "gazette_68.pdf",
+   "url": "static/media/gazette_68.pdf",
+   "ext": "pdf",
+   "size": 917493,
    "date": "2023-02-19",
    "tags": [
-    "ABSENT",
-    "SPRING"
+    "Agatha Christie",
+    "Book Review",
+    "Fiction"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Absent in the Spring",
+   "title": "Gazette: Absent in the Spring",
    "cover": "static/uploads/_icon_947814afbbbc.png",
+   "read_file": "gazette_68.html",
+   "read_url": "static/media/gazette_68.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-68",
    "year": "2023",
-   "author": null,
    "publication_id": 257,
-   "dtp_project_id": 149
+   "dtp_project_id": 149,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "A review of Agatha Christie's 1944 psychological novel written under the pseudonym Mary Westmacott, a departure from her detective fiction that follows Joan Scudamore, stranded in the Iraqi desert and forced, for the first time, to reckon with the lies she has built her life around.",
+   "reading_time": 2,
+   "category": "Reviews",
+   "section_name": "Culture",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_69.html",
-   "url": "static/media/gazette_69.html",
-   "ext": "html",
-   "size": 1054072,
+   "file": "gazette_69.pdf",
+   "url": "static/media/gazette_69.pdf",
+   "ext": "pdf",
+   "size": 1452903,
    "date": "2023-02-26",
    "tags": [
-    "AURAT"
+    "Book Review",
+    "Feminism",
+    "Taslima Nasrin"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Aurat ke Haq Mein",
+   "title": "Gazette: Aurat ke Haq Mein",
    "cover": "static/uploads/_icon_238a93b83e41.png",
+   "read_file": "gazette_69.html",
+   "read_url": "static/media/gazette_69.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-69",
    "year": "2023",
-   "author": null,
    "publication_id": 258,
-   "dtp_project_id": 100
+   "dtp_project_id": 100,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "A review of Taslima Nasrin's 'Aurat ke Haq Mein', a searing feminist work that refuses to make peace with the patriarchal structures that silence women, and asks the questions that religious fundamentalists and compliant societies alike would rather go unanswered.",
+   "reading_time": 1,
+   "category": "Reviews",
+   "section_name": "Gender",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_70.html",
-   "url": "static/media/gazette_70.html",
-   "ext": "html",
-   "size": 1301677,
+   "file": "gazette_70.pdf",
+   "url": "static/media/gazette_70.pdf",
+   "ext": "pdf",
+   "size": 10248997,
    "date": "2023-03-12",
-   "tags": [],
+   "tags": [
+    "Holi",
+    "Memoir",
+    "Poetry"
+   ],
    "subtitle": null,
    "type": "gazette",
-   "title": "जीवन के रंग",
+   "title": "Gazette: जीवन के रंग",
    "cover": "static/uploads/_icon_68c862f59c11.png",
+   "read_file": "gazette_70.html",
+   "read_url": "static/media/gazette_70.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-70",
    "year": "2023",
-   "author": null,
    "publication_id": 259,
-   "dtp_project_id": 101
+   "dtp_project_id": 101,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "फागुन के रंगों में बचपन की यादें, होली की आमद के साथ जागती खुशियां, आम के पेड़ों की महक, कोयल की कूंक, और जोगीरा की धुन में छुपे वो पुराने दिन। शिल्पी कुमारी की तस्वीरों के साथ जीवन के रंगों को समेटता एक कविता-आलेख।",
+   "reading_time": 7,
+   "category": "Opinion",
+   "section_name": "Culture",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_71.html",
-   "url": "static/media/gazette_71.html",
-   "ext": "html",
-   "size": 1004970,
+   "file": "gazette_71.pdf",
+   "url": "static/media/gazette_71.pdf",
+   "ext": "pdf",
+   "size": 999585,
    "date": "2023-03-26",
    "tags": [
-    "TAMASHA",
-    "ARTIST",
-    "WITHIN"
+    "Cinema",
+    "Film Review",
+    "Imtiaz Ali",
+    "Theatre"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Tamasha and the artist within",
+   "title": "Gazette: Tamasha and the artist within",
    "cover": "static/uploads/_icon_ecd48ef737d7.png",
+   "read_file": "gazette_71.html",
+   "read_url": "static/media/gazette_71.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-71",
    "year": "2023",
-   "author": null,
    "publication_id": 260,
-   "dtp_project_id": 102
+   "dtp_project_id": 102,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "Eight years on from its release, a re-examination of what Imtiaz Ali's Tamasha actually says about theatre, storytelling, and the creative self, and why the 'trapped artist' metaphor it gave a generation of corporate workers has become so inescapable, and so misused.",
+   "reading_time": 2,
+   "category": "Reviews",
+   "section_name": "Culture",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_72.html",
-   "url": "static/media/gazette_72.html",
-   "ext": "html",
-   "size": 1029041,
+   "file": "gazette_72.pdf",
+   "url": "static/media/gazette_72.pdf",
+   "ext": "pdf",
+   "size": 1044418,
    "date": "2023-04-04",
    "tags": [
-    "UNDERSTANDING",
-    "PREVENTION"
+    "Explainer",
+    "H3N2",
+    "Public Health"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Understanding H3N2: Symptoms, Transmission, and Prevention",
+   "title": "Gazette: Understanding H3N2: Symptoms, Transmission, and Prevention",
    "cover": "static/uploads/_icon_9ccb01666c6b.png",
+   "read_file": "gazette_72.html",
+   "read_url": "static/media/gazette_72.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-72",
    "year": "2023",
-   "author": null,
    "publication_id": 261,
-   "dtp_project_id": 103
+   "dtp_project_id": 103,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "An explainer on the H3N2 influenza virus, its origins in the 1968 Hong Kong pandemic, how it spreads, what symptoms to watch for, and what protection is available as the strain continues to concern health professionals worldwide.",
+   "reading_time": 5,
+   "category": "Reports",
+   "section_name": "Features",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_73.html",
-   "url": "static/media/gazette_73.html",
-   "ext": "html",
-   "size": 960496,
+   "file": "gazette_73.pdf",
+   "url": "static/media/gazette_73.pdf",
+   "ext": "pdf",
+   "size": 952380,
    "date": "2023-04-11",
-   "tags": [],
+   "tags": [
+    "Bihar",
+    "Documentary",
+    "Film Review",
+    "Kosi Floods"
+   ],
    "subtitle": null,
    "type": "gazette",
-   "title": "बोया पेड़ बबूल का",
+   "title": "Gazette: बोया पेड़ बबूल का",
    "cover": "static/uploads/_icon_dcdce156e202.png",
+   "read_file": "gazette_73.html",
+   "read_url": "static/media/gazette_73.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-73",
    "year": "2023",
-   "author": null,
    "publication_id": 262,
-   "dtp_project_id": 104
+   "dtp_project_id": 104,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "नितिन नीरा चंद्रा और दिनेश मिश्रा की डॉक्यूमेंट्री 'बोया पेड़ बबूल का' की समीक्षा, जो बाढ़ की त्रासदी और इंसानी लालच के बीच की कड़वी सच्चाई को सामने रखती है। 2008 के कुशाहा तटबंध टूटने की याद और आज भी जारी पीड़ा की पृष्ठभूमि में एक ज़रूरी फिल्म।",
+   "reading_time": 4,
+   "category": "Reviews",
+   "section_name": "Culture",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_83.html",
-   "url": "static/media/gazette_83.html",
-   "ext": "html",
-   "size": 291199,
+   "file": "gazette_83.pdf",
+   "url": "static/media/gazette_83.pdf",
+   "ext": "pdf",
+   "size": 641635,
    "date": "2023-04-16",
    "tags": [
-    "UNITING",
-    "SUSTAINABLE",
-    "FASHION",
-    "POWER",
-    "COLLECTIVE",
-    "ACTION"
+    "Environment",
+    "Fast Fashion",
+    "Sustainable Fashion"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Uniting for a Sustainable Fashion Future: The Power of Collective Action",
+   "title": "Gazette: Uniting for a Sustainable Fashion Future: The Power of Collective Action",
    "cover": "static/uploads/_icon_20afa96e130e.png",
+   "read_file": "gazette_83.html",
+   "read_url": "static/media/gazette_83.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-83",
    "year": "2023",
-   "author": null,
    "publication_id": 263,
-   "dtp_project_id": 105
+   "dtp_project_id": 105,
+   "byline": "Dhairya Mishra",
+   "authors": [
+    {
+     "name": "Dhairya Mishra",
+     "role": "author"
+    }
+   ],
+   "description": "On the urgent need for collective action over individual guilt in the fight against fast fashion, the industry's exploitation of labour, child workers, and the environment demands systemic reform, not just personal choices about what you wear.",
+   "reading_time": 11,
+   "category": "Opinion",
+   "section_name": "Culture",
+   "author": "Dhairya Mishra",
+   "article_count": 1
   },
   {
-   "file": "gazette_84.html",
-   "url": "static/media/gazette_84.html",
-   "ext": "html",
-   "size": 286090,
+   "file": "gazette_84.pdf",
+   "url": "static/media/gazette_84.pdf",
+   "ext": "pdf",
+   "size": 33461389,
    "date": "2023-09-10",
    "tags": [
-    "DICTATE"
+    "Authoritarianism",
+    "Photo Essay",
+    "Photography"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Dictate",
+   "title": "Gazette: Dictate",
    "cover": "static/uploads/_icon_b1f79cc3452a.png",
+   "read_file": "gazette_84.html",
+   "read_url": "static/media/gazette_84.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-84",
    "year": "2023",
-   "author": null,
    "publication_id": 264,
-   "dtp_project_id": 106
+   "dtp_project_id": 106,
+   "byline": "Kanika Solanki",
+   "authors": [
+    {
+     "name": "Kanika Solanki",
+     "role": "author"
+    }
+   ],
+   "description": "A photo essay on autocratic politics and the suppression of thought, the first resource any authoritarian strips from a people is not dignity but the capacity for independent thinking. Photographs and text by Kanika Solanki, journalism student at the University of Delhi.",
+   "reading_time": 1,
+   "category": "Photo Essays",
+   "section_name": "Culture",
+   "author": "Kanika Solanki",
+   "article_count": 1
   },
   {
-   "file": "gazette_85.html",
-   "url": "static/media/gazette_85.html",
-   "ext": "html",
-   "size": 183269,
+   "file": "gazette_85.pdf",
+   "url": "static/media/gazette_85.pdf",
+   "ext": "pdf",
+   "size": 391947,
    "date": "2023-09-10",
    "tags": [
-    "MERCHANDISE"
+    "Interview",
+    "Journalism",
+    "Media"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Merchandise",
+   "title": "Gazette: Merchandise",
    "cover": "static/uploads/_icon_a388db70b7a2.png",
+   "read_file": "gazette_85.html",
+   "read_url": "static/media/gazette_85.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-85",
    "year": "2023",
-   "author": null,
    "publication_id": 265,
-   "dtp_project_id": 81
+   "dtp_project_id": 81,
+   "byline": "Mayur Lookhar",
+   "authors": [
+    {
+     "name": "Mayur Lookhar",
+     "role": "author"
+    }
+   ],
+   "description": "Film critic and former Times Group journalist Mayur Lookhar speaks with TVE correspondent Jia Ahuja about what objectivity actually means inside a media institution, the economics of entertainment journalism, the silence around labour, and what it costs to tell the truth on a platform owned by someone else.",
+   "reading_time": 12,
+   "category": "Interviews",
+   "section_name": "Media",
+   "author": "Mayur Lookhar",
+   "article_count": 1
   },
   {
-   "file": "gazette_86.html",
-   "url": "static/media/gazette_86.html",
-   "ext": "html",
-   "size": 306909,
+   "file": "gazette_86.pdf",
+   "url": "static/media/gazette_86.pdf",
+   "ext": "pdf",
+   "size": 656847,
    "date": "2023-09-10",
    "tags": [
-    "BOILED",
-    "STUDY",
-    "GLOBAL",
-    "HAUNTING",
-    "AUTOCRATIC",
-    "TAKEOVERS",
-    "QUIET",
-    "REVELATIONS",
-    "MAKES",
-    "ABOUT",
-    "MODERN",
-    "DEMOCRACY"
+    "Authoritarianism",
+    "Fascism",
+    "Mussolini",
+    "Narendra Modi"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Boiled Frogs: A Case Study of One of Global Politics' Most Haunting Autocratic Takeovers & the Quiet Revelations it Makes About Modern Democracy",
+   "title": "Gazette: Boiled Frogs: A Case Study of One of Global Politics' Most Haunting Autocratic Takeovers &amp; the Quiet Revelations it Makes About Modern Democracy",
    "cover": "static/uploads/_icon_ca143154f0f6.png",
+   "read_file": "gazette_86.html",
+   "read_url": "static/media/gazette_86.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-86",
    "year": "2023",
-   "author": null,
    "publication_id": 266,
-   "dtp_project_id": 58
+   "dtp_project_id": 58,
+   "byline": "Kanika Solanki",
+   "authors": [
+    {
+     "name": "Kanika Solanki",
+     "role": "author"
+    }
+   ],
+   "description": "Drawing on Ram Chandra Guha's comparison of Mussolini's Italy and Modi's India, this long read examines how democracies slide into authoritarianism not through sudden rupture but through incremental normalisation, and what the historical record of regimes that did end tells us about the one we are in.",
+   "reading_time": 13,
+   "category": "Opinion",
+   "section_name": "Politics",
+   "author": "Kanika Solanki",
+   "article_count": 1
   },
   {
-   "file": "gazette_87.html",
-   "url": "static/media/gazette_87.html",
-   "ext": "html",
-   "size": 1163232,
+   "file": "gazette_87.pdf",
+   "url": "static/media/gazette_87.pdf",
+   "ext": "pdf",
+   "size": 1888784,
    "date": "2023-09-19",
    "tags": [
-    "FIRST",
-    "DICTATOR"
+    "Authoritarianism",
+    "History",
+    "Julius Caesar"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "The First Dictator",
+   "title": "Gazette: The First Dictator",
    "cover": "static/uploads/_icon_e3418e26a418.png",
+   "read_file": "gazette_87.html",
+   "read_url": "static/media/gazette_87.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-87",
    "year": "2023",
-   "author": null,
    "publication_id": 267,
-   "dtp_project_id": 107
+   "dtp_project_id": 107,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "A re-examination of Julius Caesar beyond Shakespeare's romantic portrayal, the general who conquered the Gallic tribes by exploiting their internal divisions, triggered a civil war, and earned enough enemies to be stabbed twenty-three times by his own colleagues.",
+   "reading_time": 3,
+   "category": "Opinion",
+   "section_name": "Politics",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_88.html",
-   "url": "static/media/gazette_88.html",
-   "ext": "html",
-   "size": 935598,
+   "file": "gazette_88.pdf",
+   "url": "static/media/gazette_88.pdf",
+   "ext": "pdf",
+   "size": 1160565,
    "date": "2024-02-12",
    "tags": [
-    "HIGHER",
-    "JUDICIAL",
-    "SERVICE",
-    "RULES",
-    "EXPLANATION",
-    "ANALYSIS"
+    "Judiciary",
+    "Law",
+    "PIL",
+    "Uttar Pradesh"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "UP Higher Judicial Service Rules Amendment: Explanation & Analysis",
+   "title": "Gazette: UP Higher Judicial Service Rules Amendment: Explanation &amp; Analysis",
    "cover": "static/uploads/_icon_88056875677f.png",
+   "read_file": "gazette_88.html",
+   "read_url": "static/media/gazette_88.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-88",
    "year": "2024",
-   "author": null,
    "publication_id": 268,
-   "dtp_project_id": 108
+   "dtp_project_id": 108,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "An explainer on the PIL challenging Uttar Pradesh's 2023 amendment to its Higher Judicial Service Rules, what the amendment changes, why it matters beyond the legal profession, and what courts' increasing convenience with their own regulation signals for accountability under law.",
+   "reading_time": 8,
+   "category": "Reports",
+   "section_name": "Politics",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_89.html",
-   "url": "static/media/gazette_89.html",
-   "ext": "html",
-   "size": 925534,
+   "file": "gazette_89.pdf",
+   "url": "static/media/gazette_89.pdf",
+   "ext": "pdf",
+   "size": 977810,
    "date": "2024-02-12",
-   "tags": [],
+   "tags": [
+    "Censorship",
+    "Editorial",
+    "Press Freedom"
+   ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Editor’s Desk: Then They Came for the News",
+   "title": "Gazette: Editor’s Desk: Then They Came for the News",
    "cover": "static/uploads/_icon_13ba477ec34a.png",
+   "read_file": "gazette_89.html",
+   "read_url": "static/media/gazette_89.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-89",
    "year": "2024",
-   "author": null,
    "publication_id": 269,
-   "dtp_project_id": 109
+   "dtp_project_id": 109,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "An editorial invoking Martin Niemöller's 'First They Came' as an allegory for the creeping suppression of the Indian press, and a statement on what The Voice Express is choosing to stand for in calling itself a publication, not just a student blog.",
+   "reading_time": 2,
+   "category": "Editorials",
+   "section_name": "Media",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_90.html",
-   "url": "static/media/gazette_90.html",
-   "ext": "html",
-   "size": 1104308,
+   "file": "gazette_90.pdf",
+   "url": "static/media/gazette_90.pdf",
+   "ext": "pdf",
+   "size": 1420095,
    "date": "2024-02-14",
    "tags": [
-    "CLASSES",
-    "PRINCIPAL"
+    "Delhi University",
+    "Education",
+    "Elections",
+    "Narendra Modi"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Classes on Hold for ‘Viksit Bharat’; Principal Busy in Photo-Op with Modi Cut-Out",
+   "title": "Gazette: Classes on Hold for ‘Viksit Bharat’; Principal Busy in Photo-Op with Modi Cut-Out",
    "cover": "static/uploads/_icon_33967be464e9.png",
+   "read_file": "gazette_90.html",
+   "read_url": "static/media/gazette_90.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-90",
    "year": "2024",
-   "author": null,
    "publication_id": 270,
-   "dtp_project_id": 110
+   "dtp_project_id": 110,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "At Kalindi College, New Delhi, students were told attendance would be marked for participation in the BJP government's 'Viksit Bharat' initiative, events scheduled during class hours, as the college principal posed for photographs at a Modi cut-out. A ground report on the line between government scheme and institutional compulsion.",
+   "reading_time": 4,
+   "category": "Reports",
+   "section_name": "Education",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_91.html",
-   "url": "static/media/gazette_91.html",
-   "ext": "html",
-   "size": 1081260,
+   "file": "gazette_91.pdf",
+   "url": "static/media/gazette_91.pdf",
+   "ext": "pdf",
+   "size": 19249035,
    "date": "2024-02-19",
-   "tags": [],
+   "tags": [
+    "Book Fair",
+    "Delhi",
+    "Photo Essay",
+    "Superstition"
+   ],
    "subtitle": null,
    "type": "gazette",
-   "title": "अंधविश्वास और अन्य बकवास",
+   "title": "Gazette: अंधविश्वास और अन्य बकवास",
    "cover": "static/uploads/_icon_abc8d224412e.png",
+   "read_file": "gazette_91.html",
+   "read_url": "static/media/gazette_91.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-91",
    "year": "2024",
-   "author": null,
    "publication_id": 271,
-   "dtp_project_id": 111
+   "dtp_project_id": 111,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "A photo essay from the 52nd New Delhi World Book Fair and its unlikely neighbour, Nakshatra, the trade fair for astrology, tarot, and all things con, held side by side at Pragati Maidan. On the strange coexistence of faith and reason, superstition and literature, in one of the capital's great annual public spaces.",
+   "reading_time": 1,
+   "category": "Photo Essays",
+   "section_name": "Culture",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_92.html",
-   "url": "static/media/gazette_92.html",
-   "ext": "html",
-   "size": 969598,
+   "file": "gazette_92.pdf",
+   "url": "static/media/gazette_92.pdf",
+   "ext": "pdf",
+   "size": 1264842,
    "date": "2024-02-20",
    "tags": [
-    "SEEDHA",
-    "HOSTILITY",
-    "TOWARDS",
-    "FARMERS",
-    "TURNING",
-    "VIOLENT"
+    "Agriculture",
+    "Farmers Protest",
+    "Media Bias"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "“Aane Do Dilli, Seedha Goli Maar Denge”- Middle-Class Hostility Towards Farmers on the Rise, Turning Violent",
+   "title": "Gazette: “Aane Do Dilli, Seedha Goli Maar Denge”- Middle-Class Hostility Towards Farmers on the Rise, Turning Violent",
    "cover": "static/uploads/_icon_445fcef1b46c.png",
+   "read_file": "gazette_92.html",
+   "read_url": "static/media/gazette_92.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-92",
    "year": "2024",
-   "author": null,
    "publication_id": 272,
-   "dtp_project_id": 112
+   "dtp_project_id": 112,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "As the 2024 Farmers' Protests bring agricultural workers to the borders of Delhi demanding a legally guaranteed MSP, a first report on rising civilian hostility, and on why middle-class apathy towards the protest has become as significant a story as the state's use of teargas and internet shutdowns to suppress it.",
+   "reading_time": 18,
+   "category": "Reports",
+   "section_name": "Labour",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_93.html",
-   "url": "static/media/gazette_93.html",
-   "ext": "html",
-   "size": 941407,
+   "file": "gazette_93.pdf",
+   "url": "static/media/gazette_93.pdf",
+   "ext": "pdf",
+   "size": 1100939,
    "date": "2024-03-27",
    "tags": [
-    "NARENDRA",
-    "EARNED",
-    "FAVOUR",
-    "INDIAN",
-    "MIDDLE",
-    "CLASS"
+    "Indian Politics",
+    "Middle Class",
+    "Narendra Modi",
+    "Vox Pop"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "'I am the Head of my Household, He is the Head of India’s': How Narendra Modi Earned the Favour of the Indian Middle Class",
+   "title": "Gazette: 'I am the Head of my Household, He is the Head of India’s': How Narendra Modi Earned the Favour of the Indian Middle Class",
    "cover": "static/uploads/_icon_348b15ba6738.png",
+   "read_file": "gazette_93.html",
+   "read_url": "static/media/gazette_93.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-93",
    "year": "2024",
-   "author": null,
    "publication_id": 273,
-   "dtp_project_id": 113
+   "dtp_project_id": 113,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "Manoj Jangra, CRPF retiree and family business owner in South-West Delhi, explains, in his own words, why he supports Narendra Modi. A ground-level portrait of the political convictions and disappointments that built, and continue to sustain, the BJP's urban middle-class base.",
+   "reading_time": 14,
+   "category": "Interviews",
+   "section_name": "Politics",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_94.html",
-   "url": "static/media/gazette_94.html",
-   "ext": "html",
-   "size": 938039,
+   "file": "gazette_94.pdf",
+   "url": "static/media/gazette_94.pdf",
+   "ext": "pdf",
+   "size": 1034462,
    "date": "2024-03-29",
    "tags": [
-    "COLLEGE",
-    "INFIRMARY",
-    "CHARGES",
-    "RUPEES",
-    "AUTOMATIC",
-    "DISPENSERS",
-    "CHARGE"
+    "Delhi University",
+    "Gender",
+    "Kalindi College",
+    "Menstruation"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Women's College Infirmary Charges Five Rupees Per Pad; Automatic Dispensers Charge Ten",
+   "title": "Gazette: Women's College Infirmary Charges Five Rupees Per Pad; Automatic Dispensers Charge Ten",
    "cover": "static/uploads/_icon_bc151d8cf59e.png",
+   "read_file": "gazette_94.html",
+   "read_url": "static/media/gazette_94.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-94",
    "year": "2024",
-   "author": null,
    "publication_id": 274,
-   "dtp_project_id": 114
+   "dtp_project_id": 114,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "At Kalindi College, a Delhi University institution that calls itself all-women's and teaches courses in feminist theory, the medical infirmary charges students five rupees per sanitary pad. A ground report on the gap between institutional pride and the institutional care actually on offer.",
+   "reading_time": 8,
+   "category": "Reports",
+   "section_name": "Gender",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_95.html",
-   "url": "static/media/gazette_95.html",
-   "ext": "html",
-   "size": 291360,
+   "file": "gazette_95.pdf",
+   "url": "static/media/gazette_95.pdf",
+   "ext": "pdf",
+   "size": 650170,
    "date": "2024-03-30",
    "tags": [
-    "TOKYO",
-    "EMBRACING",
-    "STRANGE",
-    "INDIVIDUALISATION",
-    "SUSTAINABLE",
-    "FASHION",
-    "PROBLEM"
+    "Fast Fashion",
+    "Sustainable Fashion",
+    "Thrifting"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Tokyo Thrift: Embracing the Strange Individualisation of the Sustainable Fashion Problem",
+   "title": "Gazette: Tokyo Thrift: Embracing the Strange Individualisation of the Sustainable Fashion Problem",
    "cover": "static/uploads/_icon_e85a8953abb1.png",
+   "read_file": "gazette_95.html",
+   "read_url": "static/media/gazette_95.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-95",
    "year": "2024",
-   "author": null,
    "publication_id": 275,
-   "dtp_project_id": 115
+   "dtp_project_id": 115,
+   "byline": "Dhairya Mishra",
+   "authors": [
+    {
+     "name": "Dhairya Mishra",
+     "role": "author"
+    }
+   ],
+   "description": "On why blaming the individual consumer for fast fashion's damage is a structural trap, and what a more honest, less guilt-driven approach to sustainable choices might actually look like when the industry's harms are genuinely systemic.",
+   "reading_time": 11,
+   "category": "Opinion",
+   "section_name": "Culture",
+   "author": "Dhairya Mishra",
+   "article_count": 1
   },
   {
-   "file": "gazette_96.html",
-   "url": "static/media/gazette_96.html",
-   "ext": "html",
-   "size": 955225,
+   "file": "gazette_96.pdf",
+   "url": "static/media/gazette_96.pdf",
+   "ext": "pdf",
+   "size": 3410027,
    "date": "2024-04-01",
    "tags": [
-    "MUSLIMS",
-    "VERMIN"
+    "CAA",
+    "Communalism",
+    "Documentary",
+    "Film Review"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Of Muslims & Vermin",
-   "cover": "static/uploads/_icon_9bc31838a2b8.png",
+   "title": "Gazette: Of Muslims &amp; Vermin",
+   "cover": "static/uploads/_icon_207b4bf9e783.png",
+   "read_file": "gazette_96.html",
+   "read_url": "static/media/gazette_96.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-96",
    "year": "2024",
-   "author": null,
    "publication_id": 276,
-   "dtp_project_id": 116
+   "dtp_project_id": 116,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "A review of Shaunak Sen's award-winning 2022 documentary 'All That Breathes', about a Muslim family in Delhi who run an underground hospital for injured kites, and what it says, with its quiet imagery and averted gaze, about CAA politics and the condition of everything that tries to breathe in a city divided.",
+   "reading_time": 5,
+   "category": "Reviews",
+   "section_name": "Culture",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_97.html",
-   "url": "static/media/gazette_97.html",
-   "ext": "html",
-   "size": 1020753,
+   "file": "gazette_97.pdf",
+   "url": "static/media/gazette_97.pdf",
+   "ext": "pdf",
+   "size": 1026699,
    "date": "2024-04-06",
-   "tags": [],
+   "tags": [
+    "Book Review",
+    "Feminism",
+    "Taslima Nasrin"
+   ],
    "subtitle": null,
    "type": "gazette",
-   "title": "औरत के हक में",
+   "title": "Gazette: औरत के हक में",
    "cover": "static/uploads/_icon_a067e290ec99.png",
+   "read_file": "gazette_97.html",
+   "read_url": "static/media/gazette_97.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-97",
    "year": "2024",
-   "author": null,
    "publication_id": 277,
-   "dtp_project_id": 117
+   "dtp_project_id": 117,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "तसलीमा नसरीन की 'औरत के हक में' की हिंदी समीक्षा, एक ऐसी किताब जो पितृसत्ता, धार्मिक कट्टरवाद और स्त्री-स्वतंत्रता के सवालों को बेबाकी से उठाती है। विज्ञान की तार्किकता पर खड़े तसलीमा के सवाल हर उस औरत के लिए ज़रूरी हैं जो अपने आस-पास बिछाए जाल को पहचानना चाहती है।",
+   "reading_time": 4,
+   "category": "Reviews",
+   "section_name": "Gender",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_98.html",
-   "url": "static/media/gazette_98.html",
-   "ext": "html",
-   "size": 945394,
+   "file": "gazette_98.pdf",
+   "url": "static/media/gazette_98.pdf",
+   "ext": "pdf",
+   "size": 1154889,
    "date": "2024-04-12",
    "tags": [
-    "LEGAL",
-    "UNVEILING",
-    "JOURNEY",
-    "SURJIT",
-    "SINGH",
-    "YADAV"
+    "Arvind Kejriwal",
+    "Hindu Sena",
+    "Hindutva",
+    "PIL"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "The Legal Crusader: Unveiling the PIL Journey of Surjit Singh Yadav",
+   "title": "Gazette: The Legal Crusader: Unveiling the PIL Journey of Surjit Singh Yadav",
    "cover": "static/uploads/_icon_a38eb92db305.png",
+   "read_file": "gazette_98.html",
+   "read_url": "static/media/gazette_98.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-98",
    "year": "2024",
-   "author": null,
    "publication_id": 278,
-   "dtp_project_id": 118
+   "dtp_project_id": 118,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "A profile of Surjit Singh Yadav, president of Hindu Sena and the petitioner behind the PIL seeking Arvind Kejriwal's removal as Delhi CM, whose long and eclectic history of Public Interest Litigations reveals a consistent pattern of weaponising the courts for politically motivated ends.",
+   "reading_time": 13,
+   "category": "Reports",
+   "section_name": "Politics",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
-   "file": "gazette_99.html",
-   "url": "static/media/gazette_99.html",
-   "ext": "html",
-   "size": 1011841,
+   "file": "gazette_99.pdf",
+   "url": "static/media/gazette_99.pdf",
+   "ext": "pdf",
+   "size": 2405436,
    "date": "2024-07-09",
    "tags": [
-    "LABYARINTH"
+    "Feminism",
+    "Gender",
+    "Sexual Health"
    ],
    "subtitle": null,
    "type": "gazette",
-   "title": "Labyarinth",
+   "title": "Gazette: Labyarinth",
    "cover": "static/uploads/_icon_4a29195e281a.png",
+   "read_file": "gazette_99.html",
+   "read_url": "static/media/gazette_99.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "gazettes",
    "id": "gazette-99",
    "year": "2024",
-   "author": null,
    "publication_id": 279,
-   "dtp_project_id": 119
+   "dtp_project_id": 119,
+   "byline": "Mouli Sharma",
+   "authors": [
+    {
+     "name": "Mouli Sharma",
+     "role": "author"
+    }
+   ],
+   "description": "The first instalment of Labyarinth, TVE's series on bodies, desire, and the structures that keep us ignorant of both. Using Netflix's 'Lust Stories' and R.E. Gross's 'Vagina Obscura' as entry points, an essay on what Indian society still refuses to say when it refuses to talk about sex.",
+   "reading_time": 5,
+   "category": "Editorials",
+   "section_name": "Gender",
+   "author": "Mouli Sharma",
+   "article_count": 1
   },
   {
    "file": "compilation_10_2026-05-12-2026-05-15.pdf",
    "url": "static/media/compilation_10_2026-05-12-2026-05-15.pdf",
    "ext": "pdf",
-   "size": 1024191,
-   "date": "2026-08-24",
-   "tags": [
-    "BLOTTER"
-   ],
+   "size": 1057862,
+   "date": "2026-05-15",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-05-12 – 2026-05-15",
-   "cover": "static/uploads/_icon_b05521dc8505.png",
+   "cover": "static/uploads/_icon_4366ce3239c9.png",
+   "read_file": "compilation_10_2026-05-12-2026-05-15.html",
+   "read_url": "static/media/compilation_10_2026-05-12-2026-05-15.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-05-12-2026-05-15",
    "year": "2026",
-   "author": null,
    "publication_id": 282,
-   "dtp_project_id": 205
+   "dtp_project_id": 205,
+   "author": null,
+   "contents": [
+    {
+     "id": 22,
+     "title": "Yearly paper street",
+     "subtitle": "12 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-12"
+    },
+    {
+     "id": 23,
+     "title": "Sufficient headline",
+     "subtitle": "15 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-15"
+    }
+   ],
+   "article_count": 2,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "week",
+    "period_label": "Weekly",
+    "range": [
+     "2026-05-12",
+     "2026-05-15"
+    ]
+   }
   },
   {
    "file": "compilation_10_2026-05-18-2026-05-24.pdf",
    "url": "static/media/compilation_10_2026-05-18-2026-05-24.pdf",
    "ext": "pdf",
-   "size": 1139513,
-   "date": "2026-08-24",
-   "tags": [
-    "BLOTTER"
-   ],
+   "size": 1174876,
+   "date": "2026-05-24",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-05-18 – 2026-05-24",
-   "cover": "static/uploads/_icon_01aa3e181505.png",
+   "cover": "static/uploads/_icon_2699bf295792.png",
+   "read_file": "compilation_10_2026-05-18-2026-05-24.html",
+   "read_url": "static/media/compilation_10_2026-05-18-2026-05-24.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-05-18-2026-05-24",
    "year": "2026",
-   "author": null,
    "publication_id": 283,
-   "dtp_project_id": 206
+   "dtp_project_id": 206,
+   "author": null,
+   "contents": [
+    {
+     "id": 24,
+     "title": "Unlisted reading",
+     "subtitle": "18 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-18"
+    },
+    {
+     "id": 25,
+     "title": "Dry silence answers",
+     "subtitle": "21 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-21"
+    },
+    {
+     "id": 26,
+     "title": "Plain notice levels",
+     "subtitle": "24 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-24"
+    }
+   ],
+   "article_count": 3,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "week",
+    "period_label": "Weekly",
+    "range": [
+     "2026-05-18",
+     "2026-05-24"
+    ]
+   }
   },
   {
    "file": "compilation_10_2026-05-27-2026-05-30.pdf",
    "url": "static/media/compilation_10_2026-05-27-2026-05-30.pdf",
    "ext": "pdf",
-   "size": 1014352,
-   "date": "2026-08-24",
-   "tags": [
-    "BLOTTER"
-   ],
+   "size": 1046466,
+   "date": "2026-05-30",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-05-27 – 2026-05-30",
-   "cover": "static/uploads/_icon_c6800f082e52.png",
+   "cover": "static/uploads/_icon_db79df70a115.png",
+   "read_file": "compilation_10_2026-05-27-2026-05-30.html",
+   "read_url": "static/media/compilation_10_2026-05-27-2026-05-30.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-05-27-2026-05-30",
    "year": "2026",
-   "author": null,
    "publication_id": 284,
-   "dtp_project_id": 207
+   "dtp_project_id": 207,
+   "author": null,
+   "contents": [
+    {
+     "id": 27,
+     "title": "One wide difference",
+     "subtitle": "27 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-27"
+    },
+    {
+     "id": 28,
+     "title": "Measures round this town",
+     "subtitle": "30 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-30"
+    }
+   ],
+   "article_count": 2,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "week",
+    "period_label": "Weekly",
+    "range": [
+     "2026-05-27",
+     "2026-05-30"
+    ]
+   }
   },
   {
    "file": "compilation_10_2026-06-02-2026-06-05.pdf",
    "url": "static/media/compilation_10_2026-06-02-2026-06-05.pdf",
    "ext": "pdf",
-   "size": 3341203,
-   "date": "2026-08-24",
-   "tags": [
-    "BLOTTER"
-   ],
+   "size": 3372366,
+   "date": "2026-06-05",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-06-02 – 2026-06-05",
-   "cover": "static/uploads/_icon_05d32a2cec4f.png",
+   "cover": "static/uploads/_icon_2e7694e96adf.png",
+   "read_file": "compilation_10_2026-06-02-2026-06-05.html",
+   "read_url": "static/media/compilation_10_2026-06-02-2026-06-05.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-06-02-2026-06-05",
    "year": "2026",
-   "author": null,
    "publication_id": 285,
-   "dtp_project_id": 208
+   "dtp_project_id": 208,
+   "author": null,
+   "contents": [
+    {
+     "id": 29,
+     "title": "Yesterday thickens",
+     "subtitle": "2 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-02"
+    },
+    {
+     "id": 30,
+     "title": "This date darkens clerk",
+     "subtitle": "5 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-05"
+    }
+   ],
+   "article_count": 2,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "week",
+    "period_label": "Weekly",
+    "range": [
+     "2026-06-02",
+     "2026-06-05"
+    ]
+   }
   },
   {
    "file": "compilation_10_2026-06-08-2026-06-14.pdf",
    "url": "static/media/compilation_10_2026-06-08-2026-06-14.pdf",
    "ext": "pdf",
-   "size": 4726880,
-   "date": "2026-08-24",
-   "tags": [
-    "BLOTTER"
-   ],
+   "size": 4765906,
+   "date": "2026-06-14",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-06-08 – 2026-06-14",
-   "cover": "static/uploads/_icon_5ff41adc8b0b.png",
+   "cover": "static/uploads/_icon_42713cfaed60.png",
+   "read_file": "compilation_10_2026-06-08-2026-06-14.html",
+   "read_url": "static/media/compilation_10_2026-06-08-2026-06-14.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-06-08-2026-06-14",
    "year": "2026",
-   "author": null,
    "publication_id": 286,
-   "dtp_project_id": 209
+   "dtp_project_id": 209,
+   "author": null,
+   "contents": [
+    {
+     "id": 31,
+     "title": "City marks each field",
+     "subtitle": "8 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-08"
+    },
+    {
+     "id": 32,
+     "title": "That clock widens name",
+     "subtitle": "11 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-11"
+    },
+    {
+     "id": 33,
+     "title": "Unfinished winter",
+     "subtitle": "14 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-14"
+    }
+   ],
+   "article_count": 3,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "week",
+    "period_label": "Weekly",
+    "range": [
+     "2026-06-08",
+     "2026-06-14"
+    ]
+   }
   },
   {
    "file": "compilation_10_2026-06-17-2026-06-20.pdf",
    "url": "static/media/compilation_10_2026-06-17-2026-06-20.pdf",
    "ext": "pdf",
-   "size": 3428373,
-   "date": "2026-08-24",
-   "tags": [
-    "BLOTTER"
-   ],
+   "size": 3460283,
+   "date": "2026-06-20",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-06-17 – 2026-06-20",
-   "cover": "static/uploads/_icon_a539506ce5d5.png",
+   "cover": "static/uploads/_icon_9cb46f9bd395.png",
+   "read_file": "compilation_10_2026-06-17-2026-06-20.html",
+   "read_url": "static/media/compilation_10_2026-06-17-2026-06-20.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-06-17-2026-06-20",
    "year": "2026",
-   "author": null,
    "publication_id": 287,
-   "dtp_project_id": 210
+   "dtp_project_id": 210,
+   "author": null,
+   "contents": [
+    {
+     "id": 34,
+     "title": "Photograph records",
+     "subtitle": "17 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-17"
+    },
+    {
+     "id": 35,
+     "title": "Sober method glass",
+     "subtitle": "20 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-20"
+    }
+   ],
+   "article_count": 2,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "week",
+    "period_label": "Weekly",
+    "range": [
+     "2026-06-17",
+     "2026-06-20"
+    ]
+   }
   },
   {
    "file": "compilation_10_2026-06-23-2026-06-26.pdf",
    "url": "static/media/compilation_10_2026-06-23-2026-06-26.pdf",
    "ext": "pdf",
-   "size": 3444606,
-   "date": "2026-08-24",
-   "tags": [
-    "BLOTTER"
-   ],
+   "size": 3477232,
+   "date": "2026-06-26",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-06-23 – 2026-06-26",
-   "cover": "static/uploads/_icon_dfd7d6bfad06.png",
+   "cover": "static/uploads/_icon_dceaad0c774f.png",
+   "read_file": "compilation_10_2026-06-23-2026-06-26.html",
+   "read_url": "static/media/compilation_10_2026-06-23-2026-06-26.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-06-23-2026-06-26",
    "year": "2026",
-   "author": null,
    "publication_id": 288,
-   "dtp_project_id": 211
+   "dtp_project_id": 211,
+   "author": null,
+   "contents": [
+    {
+     "id": 36,
+     "title": "One consequence prints",
+     "subtitle": "23 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-23"
+    },
+    {
+     "id": 37,
+     "title": "Newspaper remains",
+     "subtitle": "26 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-26"
+    }
+   ],
+   "article_count": 2,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "week",
+    "period_label": "Weekly",
+    "range": [
+     "2026-06-23",
+     "2026-06-26"
+    ]
+   }
   },
   {
    "file": "compilation_10_2026-06-29-2026-07-05.pdf",
    "url": "static/media/compilation_10_2026-06-29-2026-07-05.pdf",
    "ext": "pdf",
-   "size": 2318954,
-   "date": "2026-08-24",
-   "tags": [
-    "BLOTTER"
-   ],
+   "size": 2361398,
+   "date": "2026-07-05",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-06-29 – 2026-07-05",
-   "cover": "static/uploads/_icon_e265b35ff061.png",
+   "cover": "static/uploads/_icon_1412d047f403.png",
+   "read_file": "compilation_10_2026-06-29-2026-07-05.html",
+   "read_url": "static/media/compilation_10_2026-06-29-2026-07-05.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-06-29-2026-07-05",
    "year": "2026",
-   "author": null,
    "publication_id": 289,
-   "dtp_project_id": 212
+   "dtp_project_id": 212,
+   "author": null,
+   "contents": [
+    {
+     "id": 38,
+     "title": "Printed sequence tape",
+     "subtitle": "29 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-29"
+    },
+    {
+     "id": 39,
+     "title": "Some known quantity",
+     "subtitle": "2 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-02"
+    },
+    {
+     "id": 40,
+     "title": "Thin signal remains",
+     "subtitle": "5 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-05"
+    }
+   ],
+   "article_count": 3,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "week",
+    "period_label": "Weekly",
+    "range": [
+     "2026-06-29",
+     "2026-07-05"
+    ]
+   }
   },
   {
    "file": "compilation_10_2026-07-08-2026-07-11.pdf",
    "url": "static/media/compilation_10_2026-07-08-2026-07-11.pdf",
    "ext": "pdf",
-   "size": 1029939,
-   "date": "2026-08-24",
-   "tags": [
-    "BLOTTER"
-   ],
+   "size": 1062231,
+   "date": "2026-07-11",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-07-08 – 2026-07-11",
-   "cover": "static/uploads/_icon_523285efcea5.png",
+   "cover": "static/uploads/_icon_03a93cff8401.png",
+   "read_file": "compilation_10_2026-07-08-2026-07-11.html",
+   "read_url": "static/media/compilation_10_2026-07-08-2026-07-11.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-07-08-2026-07-11",
    "year": "2026",
-   "author": null,
    "publication_id": 290,
-   "dtp_project_id": 213
+   "dtp_project_id": 213,
+   "author": null,
+   "contents": [
+    {
+     "id": 41,
+     "title": "Late sparse atmosphere",
+     "subtitle": "8 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-08"
+    },
+    {
+     "id": 42,
+     "title": "Archive holds the form",
+     "subtitle": "11 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-11"
+    }
+   ],
+   "article_count": 2,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "week",
+    "period_label": "Weekly",
+    "range": [
+     "2026-07-08",
+     "2026-07-11"
+    ]
+   }
   },
   {
    "file": "compilation_10_2026-07-14-2026-07-17.pdf",
    "url": "static/media/compilation_10_2026-07-14-2026-07-17.pdf",
    "ext": "pdf",
-   "size": 1028011,
-   "date": "2026-08-24",
-   "tags": [
-    "BLOTTER"
-   ],
+   "size": 1058756,
+   "date": "2026-07-17",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-07-14 – 2026-07-17",
-   "cover": "static/uploads/_icon_ca58a6d143b0.png",
+   "cover": "static/uploads/_icon_1dc0805d8325.png",
+   "read_file": "compilation_10_2026-07-14-2026-07-17.html",
+   "read_url": "static/media/compilation_10_2026-07-14-2026-07-17.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-07-14-2026-07-17",
    "year": "2026",
-   "author": null,
    "publication_id": 291,
-   "dtp_project_id": 214
+   "dtp_project_id": 214,
+   "author": null,
+   "contents": [
+    {
+     "id": 43,
+     "title": "Copies round a lamp",
+     "subtitle": "14 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-14"
+    },
+    {
+     "id": 44,
+     "title": "Our remainder files",
+     "subtitle": "17 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-17"
+    }
+   ],
+   "article_count": 2,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "week",
+    "period_label": "Weekly",
+    "range": [
+     "2026-07-14",
+     "2026-07-17"
+    ]
+   }
   },
   {
    "file": "compilation_10_2026-07-20-2026-07-26.pdf",
    "url": "static/media/compilation_10_2026-07-20-2026-07-26.pdf",
    "ext": "pdf",
-   "size": 1142786,
-   "date": "2026-08-24",
-   "tags": [
-    "BLOTTER"
-   ],
+   "size": 1181925,
+   "date": "2026-07-26",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-07-20 – 2026-07-26",
-   "cover": "static/uploads/_icon_ac9262153c7a.png",
+   "cover": "static/uploads/_icon_0783bd3993c0.png",
+   "read_file": "compilation_10_2026-07-20-2026-07-26.html",
+   "read_url": "static/media/compilation_10_2026-07-20-2026-07-26.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-07-20-2026-07-26",
    "year": "2026",
-   "author": null,
    "publication_id": 292,
-   "dtp_project_id": 215
+   "dtp_project_id": 215,
+   "author": null,
+   "contents": [
+    {
+     "id": 45,
+     "title": "Evidence darkens",
+     "subtitle": "20 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-20"
+    },
+    {
+     "id": 46,
+     "title": "Quiet granite stone",
+     "subtitle": "23 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-23"
+    },
+    {
+     "id": 47,
+     "title": "Our estimate weighs",
+     "subtitle": "26 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-26"
+    }
+   ],
+   "article_count": 3,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "week",
+    "period_label": "Weekly",
+    "range": [
+     "2026-07-20",
+     "2026-07-26"
+    ]
+   }
   },
   {
    "file": "compilation_10_2026-07-29-2026-08-01.pdf",
    "url": "static/media/compilation_10_2026-07-29-2026-08-01.pdf",
    "ext": "pdf",
-   "size": 1607050,
-   "date": "2026-08-24",
-   "tags": [
-    "BLOTTER"
-   ],
+   "size": 1637641,
+   "date": "2026-08-01",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-07-29 – 2026-08-01",
-   "cover": "static/uploads/_icon_3b6b714306aa.png",
+   "cover": "static/uploads/_icon_917141bc234b.png",
+   "read_file": "compilation_10_2026-07-29-2026-08-01.html",
+   "read_url": "static/media/compilation_10_2026-07-29-2026-08-01.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-07-29-2026-08-01",
    "year": "2026",
-   "author": null,
    "publication_id": 293,
-   "dtp_project_id": 216
+   "dtp_project_id": 216,
+   "author": null,
+   "contents": [
+    {
+     "id": 48,
+     "title": "Our blunt overcast",
+     "subtitle": "29 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-29"
+    },
+    {
+     "id": 49,
+     "title": "Coarse winter answers",
+     "subtitle": "1 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-01"
+    }
+   ],
+   "article_count": 2,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "week",
+    "period_label": "Weekly",
+    "range": [
+     "2026-07-29",
+     "2026-08-01"
+    ]
+   }
   },
   {
    "file": "compilation_10_2026-08-04-2026-08-07.pdf",
    "url": "static/media/compilation_10_2026-08-04-2026-08-07.pdf",
    "ext": "pdf",
-   "size": 2190187,
-   "date": "2026-08-24",
-   "tags": [
-    "BLOTTER"
-   ],
+   "size": 2222493,
+   "date": "2026-08-07",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-08-04 – 2026-08-07",
-   "cover": "static/uploads/_icon_62627dde526d.png",
+   "cover": "static/uploads/_icon_09dff72b5ed4.png",
+   "read_file": "compilation_10_2026-08-04-2026-08-07.html",
+   "read_url": "static/media/compilation_10_2026-08-04-2026-08-07.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-08-04-2026-08-07",
    "year": "2026",
-   "author": null,
    "publication_id": 294,
-   "dtp_project_id": 217
+   "dtp_project_id": 217,
+   "author": null,
+   "contents": [
+    {
+     "id": 50,
+     "title": "District reads each hour",
+     "subtitle": "4 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-04"
+    },
+    {
+     "id": 51,
+     "title": "Darkens at one graph",
+     "subtitle": "7 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-07"
+    }
+   ],
+   "article_count": 2,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "week",
+    "period_label": "Weekly",
+    "range": [
+     "2026-08-04",
+     "2026-08-07"
+    ]
+   }
   },
   {
    "file": "compilation_10_2026-08-10-2026-08-16.pdf",
    "url": "static/media/compilation_10_2026-08-10-2026-08-16.pdf",
    "ext": "pdf",
-   "size": 2898740,
-   "date": "2026-08-24",
-   "tags": [
-    "BLOTTER"
-   ],
+   "size": 2936379,
+   "date": "2026-08-16",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-08-10 – 2026-08-16",
-   "cover": "static/uploads/_icon_656e98814fc5.png",
+   "cover": "static/uploads/_icon_69576ef92d11.png",
+   "read_file": "compilation_10_2026-08-10-2026-08-16.html",
+   "read_url": "static/media/compilation_10_2026-08-10-2026-08-16.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-08-10-2026-08-16",
    "year": "2026",
-   "author": null,
    "publication_id": 295,
-   "dtp_project_id": 218
+   "dtp_project_id": 218,
+   "author": null,
+   "contents": [
+    {
+     "id": 52,
+     "title": "Reported ledger",
+     "subtitle": "10 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-10"
+    },
+    {
+     "id": 53,
+     "title": "Orders in that date",
+     "subtitle": "13 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-13"
+    },
+    {
+     "id": 54,
+     "title": "Shadow cools no chalk",
+     "subtitle": "16 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-16"
+    }
+   ],
+   "article_count": 3,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "week",
+    "period_label": "Weekly",
+    "range": [
+     "2026-08-10",
+     "2026-08-16"
+    ]
+   }
   },
   {
    "file": "compilation_10_2026-08-19-2026-08-22.pdf",
    "url": "static/media/compilation_10_2026-08-19-2026-08-22.pdf",
    "ext": "pdf",
-   "size": 2190083,
-   "date": "2026-08-24",
-   "tags": [
-    "BLOTTER"
-   ],
+   "size": 2222183,
+   "date": "2026-08-22",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-08-19 – 2026-08-22",
-   "cover": "static/uploads/_icon_e931f46600cb.png",
+   "cover": "static/uploads/_icon_f8e581b9ab99.png",
+   "read_file": "compilation_10_2026-08-19-2026-08-22.html",
+   "read_url": "static/media/compilation_10_2026-08-19-2026-08-22.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-2026-08-19-2026-08-22",
    "year": "2026",
-   "author": null,
    "publication_id": 296,
-   "dtp_project_id": 219
+   "dtp_project_id": 219,
+   "author": null,
+   "contents": [
+    {
+     "id": 55,
+     "title": "One sealed overcast",
+     "subtitle": "19 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-19"
+    },
+    {
+     "id": 56,
+     "title": "Listed shutter file",
+     "subtitle": "22 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-22"
+    }
+   ],
+   "article_count": 2,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "week",
+    "period_label": "Weekly",
+    "range": [
+     "2026-08-19",
+     "2026-08-22"
+    ]
+   }
   },
   {
    "file": "broadsheet_2026_05.pdf",
    "url": "static/media/broadsheet_2026_05.pdf",
    "ext": "pdf",
-   "size": 952640,
+   "size": 943884,
    "date": "2026-05-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2026-05",
-   "cover": "static/uploads/_icon_de647600c6af.png",
+   "title": "The Voice Express - May 2026",
+   "cover": "static/uploads/_icon_c4995f2b0a9f.png",
+   "read_file": "broadsheet_scroll_2026_05.html",
+   "read_url": "static/media/broadsheet_scroll_2026_05.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2026-05",
    "year": "2026",
-   "author": null,
    "publication_id": 297,
-   "dtp_project_id": 220
+   "dtp_project_id": 220,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2026-05"
+   }
   },
   {
    "file": "broadsheet_2026_06.pdf",
    "url": "static/media/broadsheet_2026_06.pdf",
    "ext": "pdf",
-   "size": 1677768,
+   "size": 1666254,
    "date": "2026-06-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2026-06",
-   "cover": "static/uploads/_icon_818b846c2364.png",
+   "title": "The Voice Express - June 2026",
+   "cover": "static/uploads/_icon_f653745817ab.png",
+   "read_file": "broadsheet_scroll_2026_06.html",
+   "read_url": "static/media/broadsheet_scroll_2026_06.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2026-06",
    "year": "2026",
-   "author": null,
    "publication_id": 298,
-   "dtp_project_id": 221
+   "dtp_project_id": 221,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2026-06"
+   }
   },
   {
    "file": "broadsheet_2026_08.pdf",
    "url": "static/media/broadsheet_2026_08.pdf",
    "ext": "pdf",
-   "size": 3352102,
+   "size": 3341551,
    "date": "2026-08-01",
-   "tags": [
-    "VOICE",
-    "EXPRESS"
-   ],
+   "tags": [],
    "subtitle": null,
    "type": "broadsheet",
-   "title": "The Voice Express - 2026-08",
-   "cover": "static/uploads/_icon_6990ed7eddfc.png",
+   "title": "The Voice Express - August 2026",
+   "cover": "static/uploads/_icon_efe1dab9baeb.png",
+   "read_file": "broadsheet_scroll_2026_08.html",
+   "read_url": "static/media/broadsheet_scroll_2026_08.html",
+   "read_ext": "html",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "broadsheets",
    "id": "broadsheet-2026-08",
    "year": "2026",
-   "author": null,
    "publication_id": 299,
-   "dtp_project_id": 222
+   "dtp_project_id": 222,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2026-08"
+   }
   },
   {
-   "file": "compilation_10_Month.pdf",
-   "url": "static/media/compilation_10_Month.pdf",
+   "file": "compilation_10_2026-05.pdf",
+   "url": "static/media/compilation_10_2026-05.pdf",
    "ext": "pdf",
-   "size": 30020736,
-   "date": "2026-08-28",
-   "tags": [
-    "BLOTTER",
-    "MONTH"
-   ],
+   "size": 3104101,
+   "date": "2026-08-22",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
-   "title": "Blotter — Booklet, Month",
-   "cover": "static/uploads/_icon_c6c0b8e8e1ef.png",
+   "title": "Blotter — Booklet, 2026-05",
+   "cover": "static/uploads/_icon_eae2c7773654.png",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
-   "id": "compilation-10-month",
+   "id": "compilation-10-2026-05",
    "year": "2026",
+   "publication_id": 311,
+   "dtp_project_id": 230,
    "author": null,
-   "publication_id": 307,
-   "dtp_project_id": 226
+   "contents": [
+    {
+     "id": 22,
+     "title": "Yearly paper street",
+     "subtitle": "12 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-12"
+    },
+    {
+     "id": 23,
+     "title": "Sufficient headline",
+     "subtitle": "15 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-15"
+    },
+    {
+     "id": 24,
+     "title": "Unlisted reading",
+     "subtitle": "18 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-18"
+    },
+    {
+     "id": 25,
+     "title": "Dry silence answers",
+     "subtitle": "21 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-21"
+    },
+    {
+     "id": 26,
+     "title": "Plain notice levels",
+     "subtitle": "24 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-24"
+    },
+    {
+     "id": 27,
+     "title": "One wide difference",
+     "subtitle": "27 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-27"
+    },
+    {
+     "id": 28,
+     "title": "Measures round this town",
+     "subtitle": "30 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-30"
+    },
+    {
+     "id": 29,
+     "title": "Yesterday thickens",
+     "subtitle": "2 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-02"
+    },
+    {
+     "id": 30,
+     "title": "This date darkens clerk",
+     "subtitle": "5 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-05"
+    },
+    {
+     "id": 31,
+     "title": "City marks each field",
+     "subtitle": "8 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-08"
+    },
+    {
+     "id": 32,
+     "title": "That clock widens name",
+     "subtitle": "11 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-11"
+    },
+    {
+     "id": 33,
+     "title": "Unfinished winter",
+     "subtitle": "14 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-14"
+    },
+    {
+     "id": 34,
+     "title": "Photograph records",
+     "subtitle": "17 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-17"
+    },
+    {
+     "id": 35,
+     "title": "Sober method glass",
+     "subtitle": "20 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-20"
+    },
+    {
+     "id": 36,
+     "title": "One consequence prints",
+     "subtitle": "23 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-23"
+    },
+    {
+     "id": 37,
+     "title": "Newspaper remains",
+     "subtitle": "26 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-26"
+    },
+    {
+     "id": 38,
+     "title": "Printed sequence tape",
+     "subtitle": "29 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-29"
+    },
+    {
+     "id": 39,
+     "title": "Some known quantity",
+     "subtitle": "2 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-02"
+    },
+    {
+     "id": 40,
+     "title": "Thin signal remains",
+     "subtitle": "5 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-05"
+    },
+    {
+     "id": 41,
+     "title": "Late sparse atmosphere",
+     "subtitle": "8 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-08"
+    },
+    {
+     "id": 42,
+     "title": "Archive holds the form",
+     "subtitle": "11 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-11"
+    },
+    {
+     "id": 43,
+     "title": "Copies round a lamp",
+     "subtitle": "14 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-14"
+    },
+    {
+     "id": 44,
+     "title": "Our remainder files",
+     "subtitle": "17 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-17"
+    },
+    {
+     "id": 45,
+     "title": "Evidence darkens",
+     "subtitle": "20 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-20"
+    },
+    {
+     "id": 46,
+     "title": "Quiet granite stone",
+     "subtitle": "23 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-23"
+    },
+    {
+     "id": 47,
+     "title": "Our estimate weighs",
+     "subtitle": "26 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-26"
+    },
+    {
+     "id": 48,
+     "title": "Our blunt overcast",
+     "subtitle": "29 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-29"
+    },
+    {
+     "id": 49,
+     "title": "Coarse winter answers",
+     "subtitle": "1 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-01"
+    },
+    {
+     "id": 50,
+     "title": "District reads each hour",
+     "subtitle": "4 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-04"
+    },
+    {
+     "id": 51,
+     "title": "Darkens at one graph",
+     "subtitle": "7 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-07"
+    },
+    {
+     "id": 52,
+     "title": "Reported ledger",
+     "subtitle": "10 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-10"
+    },
+    {
+     "id": 53,
+     "title": "Orders in that date",
+     "subtitle": "13 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-13"
+    },
+    {
+     "id": 54,
+     "title": "Shadow cools no chalk",
+     "subtitle": "16 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-16"
+    },
+    {
+     "id": 55,
+     "title": "One sealed overcast",
+     "subtitle": "19 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-19"
+    },
+    {
+     "id": 56,
+     "title": "Listed shutter file",
+     "subtitle": "22 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-22"
+    }
+   ],
+   "article_count": 35,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "month",
+    "period_label": "Monthly",
+    "range": [
+     "2026-05-12",
+     "2026-08-22"
+    ]
+   }
   },
   {
-   "file": "compilation_10_Year.pdf",
-   "url": "static/media/compilation_10_Year.pdf",
+   "file": "compilation_10_2026-06.pdf",
+   "url": "static/media/compilation_10_2026-06.pdf",
    "ext": "pdf",
-   "size": 22005585,
-   "date": "2026-08-28",
-   "tags": [
-    "BLOTTER"
-   ],
+   "size": 16547384,
+   "date": "2026-08-22",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
-   "title": "Blotter — Booklet, Year",
-   "cover": "static/uploads/_icon_4bf55b89c53a.png",
+   "title": "Blotter — Booklet, 2026-06",
+   "cover": "static/uploads/_icon_d2361eb01574.png",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
-   "id": "compilation-10-year",
+   "id": "compilation-10-2026-06",
    "year": "2026",
+   "publication_id": 312,
+   "dtp_project_id": 231,
    "author": null,
-   "publication_id": 308,
-   "dtp_project_id": 227
+   "contents": [
+    {
+     "id": 22,
+     "title": "Yearly paper street",
+     "subtitle": "12 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-12"
+    },
+    {
+     "id": 23,
+     "title": "Sufficient headline",
+     "subtitle": "15 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-15"
+    },
+    {
+     "id": 24,
+     "title": "Unlisted reading",
+     "subtitle": "18 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-18"
+    },
+    {
+     "id": 25,
+     "title": "Dry silence answers",
+     "subtitle": "21 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-21"
+    },
+    {
+     "id": 26,
+     "title": "Plain notice levels",
+     "subtitle": "24 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-24"
+    },
+    {
+     "id": 27,
+     "title": "One wide difference",
+     "subtitle": "27 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-27"
+    },
+    {
+     "id": 28,
+     "title": "Measures round this town",
+     "subtitle": "30 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-30"
+    },
+    {
+     "id": 29,
+     "title": "Yesterday thickens",
+     "subtitle": "2 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-02"
+    },
+    {
+     "id": 30,
+     "title": "This date darkens clerk",
+     "subtitle": "5 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-05"
+    },
+    {
+     "id": 31,
+     "title": "City marks each field",
+     "subtitle": "8 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-08"
+    },
+    {
+     "id": 32,
+     "title": "That clock widens name",
+     "subtitle": "11 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-11"
+    },
+    {
+     "id": 33,
+     "title": "Unfinished winter",
+     "subtitle": "14 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-14"
+    },
+    {
+     "id": 34,
+     "title": "Photograph records",
+     "subtitle": "17 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-17"
+    },
+    {
+     "id": 35,
+     "title": "Sober method glass",
+     "subtitle": "20 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-20"
+    },
+    {
+     "id": 36,
+     "title": "One consequence prints",
+     "subtitle": "23 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-23"
+    },
+    {
+     "id": 37,
+     "title": "Newspaper remains",
+     "subtitle": "26 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-26"
+    },
+    {
+     "id": 38,
+     "title": "Printed sequence tape",
+     "subtitle": "29 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-29"
+    },
+    {
+     "id": 39,
+     "title": "Some known quantity",
+     "subtitle": "2 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-02"
+    },
+    {
+     "id": 40,
+     "title": "Thin signal remains",
+     "subtitle": "5 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-05"
+    },
+    {
+     "id": 41,
+     "title": "Late sparse atmosphere",
+     "subtitle": "8 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-08"
+    },
+    {
+     "id": 42,
+     "title": "Archive holds the form",
+     "subtitle": "11 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-11"
+    },
+    {
+     "id": 43,
+     "title": "Copies round a lamp",
+     "subtitle": "14 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-14"
+    },
+    {
+     "id": 44,
+     "title": "Our remainder files",
+     "subtitle": "17 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-17"
+    },
+    {
+     "id": 45,
+     "title": "Evidence darkens",
+     "subtitle": "20 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-20"
+    },
+    {
+     "id": 46,
+     "title": "Quiet granite stone",
+     "subtitle": "23 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-23"
+    },
+    {
+     "id": 47,
+     "title": "Our estimate weighs",
+     "subtitle": "26 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-26"
+    },
+    {
+     "id": 48,
+     "title": "Our blunt overcast",
+     "subtitle": "29 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-29"
+    },
+    {
+     "id": 49,
+     "title": "Coarse winter answers",
+     "subtitle": "1 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-01"
+    },
+    {
+     "id": 50,
+     "title": "District reads each hour",
+     "subtitle": "4 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-04"
+    },
+    {
+     "id": 51,
+     "title": "Darkens at one graph",
+     "subtitle": "7 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-07"
+    },
+    {
+     "id": 52,
+     "title": "Reported ledger",
+     "subtitle": "10 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-10"
+    },
+    {
+     "id": 53,
+     "title": "Orders in that date",
+     "subtitle": "13 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-13"
+    },
+    {
+     "id": 54,
+     "title": "Shadow cools no chalk",
+     "subtitle": "16 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-16"
+    },
+    {
+     "id": 55,
+     "title": "One sealed overcast",
+     "subtitle": "19 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-19"
+    },
+    {
+     "id": 56,
+     "title": "Listed shutter file",
+     "subtitle": "22 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-22"
+    }
+   ],
+   "article_count": 35,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "month",
+    "period_label": "Monthly",
+    "range": [
+     "2026-05-12",
+     "2026-08-22"
+    ]
+   }
   },
   {
-   "file": "compilation_10_All.pdf",
-   "url": "static/media/compilation_10_All.pdf",
+   "file": "compilation_10_2026-07.pdf",
+   "url": "static/media/compilation_10_2026-07.pdf",
    "ext": "pdf",
-   "size": 21335485,
-   "date": "2026-08-28",
-   "tags": [
-    "BLOTTER"
-   ],
+   "size": 4651481,
+   "date": "2026-08-22",
+   "tags": [],
    "subtitle": null,
    "type": "booklet",
-   "title": "Blotter — Booklet, All",
-   "cover": "static/uploads/_icon_b5c91d75536f.png",
+   "title": "Blotter — Booklet, 2026-07",
+   "cover": "static/uploads/_icon_b3e5eb2f53eb.png",
+   "currency": "INR",
+   "price_min": 0.0,
+   "price_sugg": 0.0,
+   "section": "booklets",
+   "id": "compilation-10-2026-07",
+   "year": "2026",
+   "publication_id": 313,
+   "dtp_project_id": 232,
+   "author": null,
+   "contents": [
+    {
+     "id": 22,
+     "title": "Yearly paper street",
+     "subtitle": "12 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-12"
+    },
+    {
+     "id": 23,
+     "title": "Sufficient headline",
+     "subtitle": "15 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-15"
+    },
+    {
+     "id": 24,
+     "title": "Unlisted reading",
+     "subtitle": "18 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-18"
+    },
+    {
+     "id": 25,
+     "title": "Dry silence answers",
+     "subtitle": "21 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-21"
+    },
+    {
+     "id": 26,
+     "title": "Plain notice levels",
+     "subtitle": "24 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-24"
+    },
+    {
+     "id": 27,
+     "title": "One wide difference",
+     "subtitle": "27 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-27"
+    },
+    {
+     "id": 28,
+     "title": "Measures round this town",
+     "subtitle": "30 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-30"
+    },
+    {
+     "id": 29,
+     "title": "Yesterday thickens",
+     "subtitle": "2 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-02"
+    },
+    {
+     "id": 30,
+     "title": "This date darkens clerk",
+     "subtitle": "5 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-05"
+    },
+    {
+     "id": 31,
+     "title": "City marks each field",
+     "subtitle": "8 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-08"
+    },
+    {
+     "id": 32,
+     "title": "That clock widens name",
+     "subtitle": "11 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-11"
+    },
+    {
+     "id": 33,
+     "title": "Unfinished winter",
+     "subtitle": "14 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-14"
+    },
+    {
+     "id": 34,
+     "title": "Photograph records",
+     "subtitle": "17 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-17"
+    },
+    {
+     "id": 35,
+     "title": "Sober method glass",
+     "subtitle": "20 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-20"
+    },
+    {
+     "id": 36,
+     "title": "One consequence prints",
+     "subtitle": "23 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-23"
+    },
+    {
+     "id": 37,
+     "title": "Newspaper remains",
+     "subtitle": "26 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-26"
+    },
+    {
+     "id": 38,
+     "title": "Printed sequence tape",
+     "subtitle": "29 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-29"
+    },
+    {
+     "id": 39,
+     "title": "Some known quantity",
+     "subtitle": "2 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-02"
+    },
+    {
+     "id": 40,
+     "title": "Thin signal remains",
+     "subtitle": "5 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-05"
+    },
+    {
+     "id": 41,
+     "title": "Late sparse atmosphere",
+     "subtitle": "8 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-08"
+    },
+    {
+     "id": 42,
+     "title": "Archive holds the form",
+     "subtitle": "11 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-11"
+    },
+    {
+     "id": 43,
+     "title": "Copies round a lamp",
+     "subtitle": "14 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-14"
+    },
+    {
+     "id": 44,
+     "title": "Our remainder files",
+     "subtitle": "17 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-17"
+    },
+    {
+     "id": 45,
+     "title": "Evidence darkens",
+     "subtitle": "20 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-20"
+    },
+    {
+     "id": 46,
+     "title": "Quiet granite stone",
+     "subtitle": "23 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-23"
+    },
+    {
+     "id": 47,
+     "title": "Our estimate weighs",
+     "subtitle": "26 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-26"
+    },
+    {
+     "id": 48,
+     "title": "Our blunt overcast",
+     "subtitle": "29 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-29"
+    },
+    {
+     "id": 49,
+     "title": "Coarse winter answers",
+     "subtitle": "1 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-01"
+    },
+    {
+     "id": 50,
+     "title": "District reads each hour",
+     "subtitle": "4 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-04"
+    },
+    {
+     "id": 51,
+     "title": "Darkens at one graph",
+     "subtitle": "7 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-07"
+    },
+    {
+     "id": 52,
+     "title": "Reported ledger",
+     "subtitle": "10 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-10"
+    },
+    {
+     "id": 53,
+     "title": "Orders in that date",
+     "subtitle": "13 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-13"
+    },
+    {
+     "id": 54,
+     "title": "Shadow cools no chalk",
+     "subtitle": "16 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-16"
+    },
+    {
+     "id": 55,
+     "title": "One sealed overcast",
+     "subtitle": "19 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-19"
+    },
+    {
+     "id": 56,
+     "title": "Listed shutter file",
+     "subtitle": "22 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-22"
+    }
+   ],
+   "article_count": 35,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "month",
+    "period_label": "Monthly",
+    "range": [
+     "2026-05-12",
+     "2026-08-22"
+    ]
+   }
+  },
+  {
+   "file": "compilation_10_2026-08.pdf",
+   "url": "static/media/compilation_10_2026-08.pdf",
+   "ext": "pdf",
+   "size": 8473035,
+   "date": "2026-08-22",
+   "tags": [],
+   "subtitle": null,
+   "type": "booklet",
+   "title": "Blotter — Booklet, 2026-08",
+   "cover": "static/uploads/_icon_0ba7ae2fa1da.png",
+   "currency": "INR",
+   "price_min": 0.0,
+   "price_sugg": 0.0,
+   "section": "booklets",
+   "id": "compilation-10-2026-08",
+   "year": "2026",
+   "publication_id": 314,
+   "dtp_project_id": 233,
+   "author": null,
+   "contents": [
+    {
+     "id": 22,
+     "title": "Yearly paper street",
+     "subtitle": "12 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-12"
+    },
+    {
+     "id": 23,
+     "title": "Sufficient headline",
+     "subtitle": "15 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-15"
+    },
+    {
+     "id": 24,
+     "title": "Unlisted reading",
+     "subtitle": "18 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-18"
+    },
+    {
+     "id": 25,
+     "title": "Dry silence answers",
+     "subtitle": "21 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-21"
+    },
+    {
+     "id": 26,
+     "title": "Plain notice levels",
+     "subtitle": "24 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-24"
+    },
+    {
+     "id": 27,
+     "title": "One wide difference",
+     "subtitle": "27 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-27"
+    },
+    {
+     "id": 28,
+     "title": "Measures round this town",
+     "subtitle": "30 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-30"
+    },
+    {
+     "id": 29,
+     "title": "Yesterday thickens",
+     "subtitle": "2 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-02"
+    },
+    {
+     "id": 30,
+     "title": "This date darkens clerk",
+     "subtitle": "5 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-05"
+    },
+    {
+     "id": 31,
+     "title": "City marks each field",
+     "subtitle": "8 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-08"
+    },
+    {
+     "id": 32,
+     "title": "That clock widens name",
+     "subtitle": "11 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-11"
+    },
+    {
+     "id": 33,
+     "title": "Unfinished winter",
+     "subtitle": "14 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-14"
+    },
+    {
+     "id": 34,
+     "title": "Photograph records",
+     "subtitle": "17 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-17"
+    },
+    {
+     "id": 35,
+     "title": "Sober method glass",
+     "subtitle": "20 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-20"
+    },
+    {
+     "id": 36,
+     "title": "One consequence prints",
+     "subtitle": "23 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-23"
+    },
+    {
+     "id": 37,
+     "title": "Newspaper remains",
+     "subtitle": "26 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-26"
+    },
+    {
+     "id": 38,
+     "title": "Printed sequence tape",
+     "subtitle": "29 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-29"
+    },
+    {
+     "id": 39,
+     "title": "Some known quantity",
+     "subtitle": "2 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-02"
+    },
+    {
+     "id": 40,
+     "title": "Thin signal remains",
+     "subtitle": "5 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-05"
+    },
+    {
+     "id": 41,
+     "title": "Late sparse atmosphere",
+     "subtitle": "8 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-08"
+    },
+    {
+     "id": 42,
+     "title": "Archive holds the form",
+     "subtitle": "11 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-11"
+    },
+    {
+     "id": 43,
+     "title": "Copies round a lamp",
+     "subtitle": "14 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-14"
+    },
+    {
+     "id": 44,
+     "title": "Our remainder files",
+     "subtitle": "17 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-17"
+    },
+    {
+     "id": 45,
+     "title": "Evidence darkens",
+     "subtitle": "20 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-20"
+    },
+    {
+     "id": 46,
+     "title": "Quiet granite stone",
+     "subtitle": "23 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-23"
+    },
+    {
+     "id": 47,
+     "title": "Our estimate weighs",
+     "subtitle": "26 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-26"
+    },
+    {
+     "id": 48,
+     "title": "Our blunt overcast",
+     "subtitle": "29 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-29"
+    },
+    {
+     "id": 49,
+     "title": "Coarse winter answers",
+     "subtitle": "1 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-01"
+    },
+    {
+     "id": 50,
+     "title": "District reads each hour",
+     "subtitle": "4 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-04"
+    },
+    {
+     "id": 51,
+     "title": "Darkens at one graph",
+     "subtitle": "7 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-07"
+    },
+    {
+     "id": 52,
+     "title": "Reported ledger",
+     "subtitle": "10 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-10"
+    },
+    {
+     "id": 53,
+     "title": "Orders in that date",
+     "subtitle": "13 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-13"
+    },
+    {
+     "id": 54,
+     "title": "Shadow cools no chalk",
+     "subtitle": "16 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-16"
+    },
+    {
+     "id": 55,
+     "title": "One sealed overcast",
+     "subtitle": "19 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-19"
+    },
+    {
+     "id": 56,
+     "title": "Listed shutter file",
+     "subtitle": "22 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-22"
+    }
+   ],
+   "article_count": 35,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "month",
+    "period_label": "Monthly",
+    "range": [
+     "2026-05-12",
+     "2026-08-22"
+    ]
+   }
+  },
+  {
+   "file": "compilation_10_2026.pdf",
+   "url": "static/media/compilation_10_2026.pdf",
+   "ext": "pdf",
+   "size": 22080690,
+   "date": "2026-08-22",
+   "tags": [],
+   "subtitle": null,
+   "type": "booklet",
+   "title": "Blotter — Booklet, 2026",
+   "cover": "static/uploads/_icon_bf191b1bca0a.png",
+   "currency": "INR",
+   "price_min": 0.0,
+   "price_sugg": 0.0,
+   "section": "booklets",
+   "id": "compilation-10-2026",
+   "year": "2026",
+   "publication_id": 315,
+   "dtp_project_id": 234,
+   "author": null,
+   "contents": [
+    {
+     "id": 22,
+     "title": "Yearly paper street",
+     "subtitle": "12 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-12"
+    },
+    {
+     "id": 23,
+     "title": "Sufficient headline",
+     "subtitle": "15 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-15"
+    },
+    {
+     "id": 24,
+     "title": "Unlisted reading",
+     "subtitle": "18 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-18"
+    },
+    {
+     "id": 25,
+     "title": "Dry silence answers",
+     "subtitle": "21 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-21"
+    },
+    {
+     "id": 26,
+     "title": "Plain notice levels",
+     "subtitle": "24 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-24"
+    },
+    {
+     "id": 27,
+     "title": "One wide difference",
+     "subtitle": "27 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-27"
+    },
+    {
+     "id": 28,
+     "title": "Measures round this town",
+     "subtitle": "30 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-30"
+    },
+    {
+     "id": 29,
+     "title": "Yesterday thickens",
+     "subtitle": "2 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-02"
+    },
+    {
+     "id": 30,
+     "title": "This date darkens clerk",
+     "subtitle": "5 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-05"
+    },
+    {
+     "id": 31,
+     "title": "City marks each field",
+     "subtitle": "8 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-08"
+    },
+    {
+     "id": 32,
+     "title": "That clock widens name",
+     "subtitle": "11 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-11"
+    },
+    {
+     "id": 33,
+     "title": "Unfinished winter",
+     "subtitle": "14 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-14"
+    },
+    {
+     "id": 34,
+     "title": "Photograph records",
+     "subtitle": "17 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-17"
+    },
+    {
+     "id": 35,
+     "title": "Sober method glass",
+     "subtitle": "20 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-20"
+    },
+    {
+     "id": 36,
+     "title": "One consequence prints",
+     "subtitle": "23 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-23"
+    },
+    {
+     "id": 37,
+     "title": "Newspaper remains",
+     "subtitle": "26 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-26"
+    },
+    {
+     "id": 38,
+     "title": "Printed sequence tape",
+     "subtitle": "29 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-29"
+    },
+    {
+     "id": 39,
+     "title": "Some known quantity",
+     "subtitle": "2 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-02"
+    },
+    {
+     "id": 40,
+     "title": "Thin signal remains",
+     "subtitle": "5 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-05"
+    },
+    {
+     "id": 41,
+     "title": "Late sparse atmosphere",
+     "subtitle": "8 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-08"
+    },
+    {
+     "id": 42,
+     "title": "Archive holds the form",
+     "subtitle": "11 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-11"
+    },
+    {
+     "id": 43,
+     "title": "Copies round a lamp",
+     "subtitle": "14 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-14"
+    },
+    {
+     "id": 44,
+     "title": "Our remainder files",
+     "subtitle": "17 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-17"
+    },
+    {
+     "id": 45,
+     "title": "Evidence darkens",
+     "subtitle": "20 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-20"
+    },
+    {
+     "id": 46,
+     "title": "Quiet granite stone",
+     "subtitle": "23 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-23"
+    },
+    {
+     "id": 47,
+     "title": "Our estimate weighs",
+     "subtitle": "26 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-26"
+    },
+    {
+     "id": 48,
+     "title": "Our blunt overcast",
+     "subtitle": "29 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-29"
+    },
+    {
+     "id": 49,
+     "title": "Coarse winter answers",
+     "subtitle": "1 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-01"
+    },
+    {
+     "id": 50,
+     "title": "District reads each hour",
+     "subtitle": "4 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-04"
+    },
+    {
+     "id": 51,
+     "title": "Darkens at one graph",
+     "subtitle": "7 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-07"
+    },
+    {
+     "id": 52,
+     "title": "Reported ledger",
+     "subtitle": "10 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-10"
+    },
+    {
+     "id": 53,
+     "title": "Orders in that date",
+     "subtitle": "13 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-13"
+    },
+    {
+     "id": 54,
+     "title": "Shadow cools no chalk",
+     "subtitle": "16 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-16"
+    },
+    {
+     "id": 55,
+     "title": "One sealed overcast",
+     "subtitle": "19 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-19"
+    },
+    {
+     "id": 56,
+     "title": "Listed shutter file",
+     "subtitle": "22 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-22"
+    }
+   ],
+   "article_count": 35,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "year",
+    "period_label": "Yearly",
+    "range": [
+     "2026-05-12",
+     "2026-08-22"
+    ]
+   }
+  },
+  {
+   "file": "compilation_10_All-time.pdf",
+   "url": "static/media/compilation_10_All-time.pdf",
+   "ext": "pdf",
+   "size": 21427588,
+   "date": "2026-08-22",
+   "tags": [],
+   "subtitle": null,
+   "type": "booklet",
+   "title": "Blotter — Booklet, All time",
+   "cover": "static/uploads/_icon_1e676aa13d39.png",
+   "currency": "INR",
+   "price_min": 0.0,
+   "price_sugg": 0.0,
+   "section": "booklets",
+   "id": "compilation-10-all-time",
+   "year": "2026",
+   "publication_id": 316,
+   "dtp_project_id": 235,
+   "author": null,
+   "contents": [
+    {
+     "id": 22,
+     "title": "Yearly paper street",
+     "subtitle": "12 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-12"
+    },
+    {
+     "id": 23,
+     "title": "Sufficient headline",
+     "subtitle": "15 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-15"
+    },
+    {
+     "id": 24,
+     "title": "Unlisted reading",
+     "subtitle": "18 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-18"
+    },
+    {
+     "id": 25,
+     "title": "Dry silence answers",
+     "subtitle": "21 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-21"
+    },
+    {
+     "id": 26,
+     "title": "Plain notice levels",
+     "subtitle": "24 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-24"
+    },
+    {
+     "id": 27,
+     "title": "One wide difference",
+     "subtitle": "27 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-27"
+    },
+    {
+     "id": 28,
+     "title": "Measures round this town",
+     "subtitle": "30 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-30"
+    },
+    {
+     "id": 29,
+     "title": "Yesterday thickens",
+     "subtitle": "2 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-02"
+    },
+    {
+     "id": 30,
+     "title": "This date darkens clerk",
+     "subtitle": "5 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-05"
+    },
+    {
+     "id": 31,
+     "title": "City marks each field",
+     "subtitle": "8 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-08"
+    },
+    {
+     "id": 32,
+     "title": "That clock widens name",
+     "subtitle": "11 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-11"
+    },
+    {
+     "id": 33,
+     "title": "Unfinished winter",
+     "subtitle": "14 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-14"
+    },
+    {
+     "id": 34,
+     "title": "Photograph records",
+     "subtitle": "17 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-17"
+    },
+    {
+     "id": 35,
+     "title": "Sober method glass",
+     "subtitle": "20 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-20"
+    },
+    {
+     "id": 36,
+     "title": "One consequence prints",
+     "subtitle": "23 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-23"
+    },
+    {
+     "id": 37,
+     "title": "Newspaper remains",
+     "subtitle": "26 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-26"
+    },
+    {
+     "id": 38,
+     "title": "Printed sequence tape",
+     "subtitle": "29 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-29"
+    },
+    {
+     "id": 39,
+     "title": "Some known quantity",
+     "subtitle": "2 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-02"
+    },
+    {
+     "id": 40,
+     "title": "Thin signal remains",
+     "subtitle": "5 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-05"
+    },
+    {
+     "id": 41,
+     "title": "Late sparse atmosphere",
+     "subtitle": "8 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-08"
+    },
+    {
+     "id": 42,
+     "title": "Archive holds the form",
+     "subtitle": "11 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-11"
+    },
+    {
+     "id": 43,
+     "title": "Copies round a lamp",
+     "subtitle": "14 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-14"
+    },
+    {
+     "id": 44,
+     "title": "Our remainder files",
+     "subtitle": "17 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-17"
+    },
+    {
+     "id": 45,
+     "title": "Evidence darkens",
+     "subtitle": "20 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-20"
+    },
+    {
+     "id": 46,
+     "title": "Quiet granite stone",
+     "subtitle": "23 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-23"
+    },
+    {
+     "id": 47,
+     "title": "Our estimate weighs",
+     "subtitle": "26 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-26"
+    },
+    {
+     "id": 48,
+     "title": "Our blunt overcast",
+     "subtitle": "29 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-29"
+    },
+    {
+     "id": 49,
+     "title": "Coarse winter answers",
+     "subtitle": "1 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-01"
+    },
+    {
+     "id": 50,
+     "title": "District reads each hour",
+     "subtitle": "4 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-04"
+    },
+    {
+     "id": 51,
+     "title": "Darkens at one graph",
+     "subtitle": "7 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-07"
+    },
+    {
+     "id": 52,
+     "title": "Reported ledger",
+     "subtitle": "10 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-10"
+    },
+    {
+     "id": 53,
+     "title": "Orders in that date",
+     "subtitle": "13 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-13"
+    },
+    {
+     "id": 54,
+     "title": "Shadow cools no chalk",
+     "subtitle": "16 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-16"
+    },
+    {
+     "id": 55,
+     "title": "One sealed overcast",
+     "subtitle": "19 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-19"
+    },
+    {
+     "id": 56,
+     "title": "Listed shutter file",
+     "subtitle": "22 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-22"
+    }
+   ],
+   "article_count": 35,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "all",
+    "period_label": "All-time",
+    "range": [
+     "2026-05-12",
+     "2026-08-22"
+    ]
+   }
+  },
+  {
+   "file": "Equal_Work_Equal_Pay_The_Maruti-Suzuki_Uprising_20260902_182c3b.epub",
+   "url": "static/publications/Equal_Work_Equal_Pay_The_Maruti-Suzuki_Uprising_20260902_182c3b.epub",
+   "ext": "epub",
+   "size": 3447932,
+   "date": "2026-09-02",
+   "tags": [],
+   "subtitle": null,
+   "type": "epub",
+   "title": "Equal Work, Equal Pay: The Maruti-Suzuki Uprising",
+   "cover": "static/uploads/_icon_0a17e6b35dec.png",
+   "currency": "INR",
+   "price_min": 0.0,
+   "price_sugg": 0.0,
+   "section": "magazines",
+   "id": "equal-work-equal-pay-the-maruti-suzuki-uprising-20260902-182c3b",
+   "year": "2026",
+   "publication_id": 317,
+   "dtp_project_id": null,
+   "author": null,
+   "article_count": 4
+  },
+  {
+   "file": "gazette_130.pdf",
+   "url": "static/media/gazette_130.pdf",
+   "ext": "pdf",
+   "size": 1114665,
+   "date": "2026-09-19",
+   "tags": [
+    "NOTES",
+    "NIGHT",
+    "SHORT",
+    "KNIVES"
+   ],
+   "subtitle": null,
+   "type": "gazette",
+   "title": "Misogyny, Treason, and Plot: Notes from the Cockroaches’ Long Night of Short Knives",
+   "cover": "static/uploads/_icon_296d7d7ed9e0.png",
+   "read_file": "gazette_130.html",
+   "read_url": "static/media/gazette_130.html",
+   "read_ext": "html",
+   "currency": "INR",
+   "price_min": 0.0,
+   "price_sugg": 0.0,
+   "section": "gazettes",
+   "id": "gazette-130",
+   "year": "2026",
+   "publication_id": 319,
+   "dtp_project_id": 236,
+   "byline": "Ramnit Kaur - Edited by Mouli Sharma",
+   "authors": [
+    {
+     "name": "Ramnit Kaur",
+     "role": "author"
+    },
+    {
+     "name": "Mouli Sharma",
+     "role": "editor"
+    }
+   ],
+   "description": "A law graduate's account of the 20 July protest against Dharmendra Pradhan at Jantar Mantar: the Delhi Police's lathi charges and a near-fatal stampede, and the protective patriarchy of the men who decided where women belonged.",
+   "reading_time": 27,
+   "category": "Editorials",
+   "section_name": "Features",
+   "author": "Ramnit Kaur - Edited by Mouli Sharma",
+   "article_count": 1
+  },
+  {
+   "file": "broadsheet_2026_09.pdf",
+   "url": "static/media/broadsheet_2026_09.pdf",
+   "ext": "pdf",
+   "size": 683135,
+   "date": "2026-09-01",
+   "tags": [],
+   "subtitle": null,
+   "type": "broadsheet",
+   "title": "The Voice Express - September 2026",
+   "cover": "static/uploads/_icon_93dab05f1951.png",
+   "read_file": "broadsheet_scroll_2026_09.html",
+   "read_url": "static/media/broadsheet_scroll_2026_09.html",
+   "read_ext": "html",
+   "currency": "INR",
+   "price_min": 0.0,
+   "price_sugg": 0.0,
+   "section": "broadsheets",
+   "id": "broadsheet-2026-09",
+   "year": "2026",
+   "publication_id": 320,
+   "dtp_project_id": 237,
+   "author": null,
+   "series": {
+    "key": "tve-monthly",
+    "label": "The Voice Express",
+    "kind": "issues",
+    "role": "issue",
+    "issue": "2026-09"
+   }
+  },
+  {
+   "file": "compilation_10_all.html",
+   "url": "static/media/compilation_10_all.html",
+   "ext": "html",
+   "size": 6660118,
+   "date": "2026-08-22",
+   "tags": [],
+   "subtitle": null,
+   "type": "booklet",
+   "title": "Blotter — Booklet, all time",
+   "cover": "static/uploads/_icon_014634d5f077.png",
    "currency": "INR",
    "price_min": 0.0,
    "price_sugg": 0.0,
    "section": "booklets",
    "id": "compilation-10-all",
    "year": "2026",
+   "publication_id": 321,
+   "dtp_project_id": 201,
    "author": null,
-   "publication_id": 309,
-   "dtp_project_id": 228
+   "contents": [
+    {
+     "id": 22,
+     "title": "Yearly paper street",
+     "subtitle": "12 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-12"
+    },
+    {
+     "id": 23,
+     "title": "Sufficient headline",
+     "subtitle": "15 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-15"
+    },
+    {
+     "id": 24,
+     "title": "Unlisted reading",
+     "subtitle": "18 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-18"
+    },
+    {
+     "id": 25,
+     "title": "Dry silence answers",
+     "subtitle": "21 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-21"
+    },
+    {
+     "id": 26,
+     "title": "Plain notice levels",
+     "subtitle": "24 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-24"
+    },
+    {
+     "id": 27,
+     "title": "One wide difference",
+     "subtitle": "27 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-27"
+    },
+    {
+     "id": 28,
+     "title": "Measures round this town",
+     "subtitle": "30 May 2026 · differential line growth · 0.29 bits",
+     "date": "2026-05-30"
+    },
+    {
+     "id": 29,
+     "title": "Yesterday thickens",
+     "subtitle": "2 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-02"
+    },
+    {
+     "id": 30,
+     "title": "This date darkens clerk",
+     "subtitle": "5 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-05"
+    },
+    {
+     "id": 31,
+     "title": "City marks each field",
+     "subtitle": "8 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-08"
+    },
+    {
+     "id": 32,
+     "title": "That clock widens name",
+     "subtitle": "11 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-11"
+    },
+    {
+     "id": 33,
+     "title": "Unfinished winter",
+     "subtitle": "14 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-14"
+    },
+    {
+     "id": 34,
+     "title": "Photograph records",
+     "subtitle": "17 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-17"
+    },
+    {
+     "id": 35,
+     "title": "Sober method glass",
+     "subtitle": "20 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-20"
+    },
+    {
+     "id": 36,
+     "title": "One consequence prints",
+     "subtitle": "23 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-23"
+    },
+    {
+     "id": 37,
+     "title": "Newspaper remains",
+     "subtitle": "26 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-26"
+    },
+    {
+     "id": 38,
+     "title": "Printed sequence tape",
+     "subtitle": "29 June 2026 · Gray-Scott reaction-diffusion · 2.34 bits",
+     "date": "2026-06-29"
+    },
+    {
+     "id": 39,
+     "title": "Some known quantity",
+     "subtitle": "2 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-02"
+    },
+    {
+     "id": 40,
+     "title": "Thin signal remains",
+     "subtitle": "5 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-05"
+    },
+    {
+     "id": 41,
+     "title": "Late sparse atmosphere",
+     "subtitle": "8 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-08"
+    },
+    {
+     "id": 42,
+     "title": "Archive holds the form",
+     "subtitle": "11 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-11"
+    },
+    {
+     "id": 43,
+     "title": "Copies round a lamp",
+     "subtitle": "14 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-14"
+    },
+    {
+     "id": 44,
+     "title": "Our remainder files",
+     "subtitle": "17 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-17"
+    },
+    {
+     "id": 45,
+     "title": "Evidence darkens",
+     "subtitle": "20 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-20"
+    },
+    {
+     "id": 46,
+     "title": "Quiet granite stone",
+     "subtitle": "23 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-23"
+    },
+    {
+     "id": 47,
+     "title": "Our estimate weighs",
+     "subtitle": "26 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-26"
+    },
+    {
+     "id": 48,
+     "title": "Our blunt overcast",
+     "subtitle": "29 July 2026 · Chladni nodal figure · 0.68 bits",
+     "date": "2026-07-29"
+    },
+    {
+     "id": 49,
+     "title": "Coarse winter answers",
+     "subtitle": "1 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-01"
+    },
+    {
+     "id": 50,
+     "title": "District reads each hour",
+     "subtitle": "4 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-04"
+    },
+    {
+     "id": 51,
+     "title": "Darkens at one graph",
+     "subtitle": "7 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-07"
+    },
+    {
+     "id": 52,
+     "title": "Reported ledger",
+     "subtitle": "10 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-10"
+    },
+    {
+     "id": 53,
+     "title": "Orders in that date",
+     "subtitle": "13 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-13"
+    },
+    {
+     "id": 54,
+     "title": "Shadow cools no chalk",
+     "subtitle": "16 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-16"
+    },
+    {
+     "id": 55,
+     "title": "One sealed overcast",
+     "subtitle": "19 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-19"
+    },
+    {
+     "id": 56,
+     "title": "Listed shutter file",
+     "subtitle": "22 August 2026 · stipple, one mark per case · 1.71 bits",
+     "date": "2026-08-22"
+    }
+   ],
+   "article_count": 35,
+   "series": {
+    "key": "column-10",
+    "label": "Blotter",
+    "kind": "compilations",
+    "role": "compilation",
+    "period": "all",
+    "period_label": "All-time",
+    "range": [
+     "2026-05-12",
+     "2026-08-22"
+    ]
+   }
   }
  ]
 }

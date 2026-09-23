@@ -1,6 +1,3 @@
-/* qrcode-generator -- Kazuhiko Arase, MIT licensed. Compact build exposing a
-   global qrcode(typeNumber, errorCorrectionLevel). The Stand uses it to draw
-   payment QR codes fully offline (no external image service). */
 var qrcode = function () {
   var qrcode = function (typeNumber, errorCorrectionLevel) {
     var PAD0 = 0xEC, PAD1 = 0x11;
