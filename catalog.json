@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T13:43:54Z",
+ "generated": "2026-09-25T09:29:49Z",
  "sections": [
   {
    "key": "gazettes",
@@ -49,7 +49,13 @@
    "ext": "html",
    "size": 1656946,
    "date": "2026-08-22",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-05-01 – 2026-05-31",
@@ -295,7 +301,13 @@
    "ext": "html",
    "size": 3556758,
    "date": "2026-08-22",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-06-01 – 2026-06-30",
@@ -541,7 +553,13 @@
    "ext": "html",
    "size": 2621702,
    "date": "2026-08-22",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-07-01 – 2026-07-31",
@@ -787,7 +805,13 @@
    "ext": "html",
    "size": 5255118,
    "date": "2026-08-22",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-08-01 – 2026-08-31",
@@ -1031,9 +1055,13 @@
    "file": "broadsheet_2023_02.pdf",
    "url": "static/media/broadsheet_2023_02.pdf",
    "ext": "pdf",
-   "size": 1100028,
+   "size": 1099234,
    "date": "2023-02-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS",
+    "FEBRUARY"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - February 2023",
@@ -1062,9 +1090,13 @@
    "file": "broadsheet_2023_03.pdf",
    "url": "static/media/broadsheet_2023_03.pdf",
    "ext": "pdf",
-   "size": 914051,
+   "size": 914112,
    "date": "2023-03-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS",
+    "MARCH"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - March 2023",
@@ -1093,9 +1125,13 @@
    "file": "broadsheet_2023_04.pdf",
    "url": "static/media/broadsheet_2023_04.pdf",
    "ext": "pdf",
-   "size": 1064759,
+   "size": 1033746,
    "date": "2023-04-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS",
+    "APRIL"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - April 2023",
@@ -1124,9 +1160,13 @@
    "file": "broadsheet_2023_09.pdf",
    "url": "static/media/broadsheet_2023_09.pdf",
    "ext": "pdf",
-   "size": 1785374,
+   "size": 1786328,
    "date": "2023-09-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS",
+    "SEPTEMBER"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - September 2023",
@@ -1155,9 +1195,13 @@
    "file": "broadsheet_2024_02.pdf",
    "url": "static/media/broadsheet_2024_02.pdf",
    "ext": "pdf",
-   "size": 2055233,
+   "size": 2053450,
    "date": "2024-02-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS",
+    "FEBRUARY"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - February 2024",
@@ -1186,9 +1230,13 @@
    "file": "broadsheet_2024_03.pdf",
    "url": "static/media/broadsheet_2024_03.pdf",
    "ext": "pdf",
-   "size": 873270,
+   "size": 872957,
    "date": "2024-03-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS",
+    "MARCH"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - March 2024",
@@ -1217,9 +1265,13 @@
    "file": "broadsheet_2024_04.pdf",
    "url": "static/media/broadsheet_2024_04.pdf",
    "ext": "pdf",
-   "size": 931710,
+   "size": 1140598,
    "date": "2024-04-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS",
+    "APRIL"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - April 2024",
@@ -1248,9 +1300,12 @@
    "file": "broadsheet_2024_07.pdf",
    "url": "static/media/broadsheet_2024_07.pdf",
    "ext": "pdf",
-   "size": 1105431,
+   "size": 1105039,
    "date": "2024-07-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - July 2024",
@@ -1279,9 +1334,13 @@
    "file": "broadsheet_2024_08.pdf",
    "url": "static/media/broadsheet_2024_08.pdf",
    "ext": "pdf",
-   "size": 1265296,
+   "size": 1265029,
    "date": "2024-08-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS",
+    "AUGUST"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - August 2024",
@@ -1310,9 +1369,13 @@
    "file": "broadsheet_2024_09.pdf",
    "url": "static/media/broadsheet_2024_09.pdf",
    "ext": "pdf",
-   "size": 1759866,
+   "size": 1720030,
    "date": "2024-09-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS",
+    "SEPTEMBER"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - September 2024",
@@ -1341,9 +1404,13 @@
    "file": "broadsheet_2024_10.pdf",
    "url": "static/media/broadsheet_2024_10.pdf",
    "ext": "pdf",
-   "size": 3173251,
+   "size": 3172637,
    "date": "2024-10-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS",
+    "OCTOBER"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - October 2024",
@@ -1372,9 +1439,13 @@
    "file": "broadsheet_2025_01.pdf",
    "url": "static/media/broadsheet_2025_01.pdf",
    "ext": "pdf",
-   "size": 1804067,
+   "size": 1803170,
    "date": "2025-01-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS",
+    "JANUARY"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - January 2025",
@@ -1403,9 +1474,12 @@
    "file": "broadsheet_2025_07.pdf",
    "url": "static/media/broadsheet_2025_07.pdf",
    "ext": "pdf",
-   "size": 570989,
+   "size": 570063,
    "date": "2025-07-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - July 2025",
@@ -1434,9 +1508,13 @@
    "file": "broadsheet_2025_12.pdf",
    "url": "static/media/broadsheet_2025_12.pdf",
    "ext": "pdf",
-   "size": 628059,
+   "size": 627995,
    "date": "2025-12-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS",
+    "DECEMBER"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - December 2025",
@@ -1465,9 +1543,13 @@
    "file": "broadsheet_2026_01.pdf",
    "url": "static/media/broadsheet_2026_01.pdf",
    "ext": "pdf",
-   "size": 532054,
+   "size": 533162,
    "date": "2026-01-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS",
+    "JANUARY"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - January 2026",
@@ -1496,9 +1578,13 @@
    "file": "broadsheet_2026_03.pdf",
    "url": "static/media/broadsheet_2026_03.pdf",
    "ext": "pdf",
-   "size": 3870524,
+   "size": 3871059,
    "date": "2026-03-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS",
+    "MARCH"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - March 2026",
@@ -1527,9 +1613,13 @@
    "file": "broadsheet_2026_04.pdf",
    "url": "static/media/broadsheet_2026_04.pdf",
    "ext": "pdf",
-   "size": 539467,
+   "size": 539164,
    "date": "2026-04-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS",
+    "APRIL"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - April 2026",
@@ -1558,9 +1648,12 @@
    "file": "broadsheet_2026_07.pdf",
    "url": "static/media/broadsheet_2026_07.pdf",
    "ext": "pdf",
-   "size": 973954,
+   "size": 974818,
    "date": "2026-07-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - July 2026",
@@ -3301,7 +3394,13 @@
    "ext": "pdf",
    "size": 1057862,
    "date": "2026-05-15",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-05-12 – 2026-05-15",
@@ -3352,7 +3451,13 @@
    "ext": "pdf",
    "size": 1174876,
    "date": "2026-05-24",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-05-18 – 2026-05-24",
@@ -3409,7 +3514,13 @@
    "ext": "pdf",
    "size": 1046466,
    "date": "2026-05-30",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-05-27 – 2026-05-30",
@@ -3460,7 +3571,13 @@
    "ext": "pdf",
    "size": 3372366,
    "date": "2026-06-05",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-06-02 – 2026-06-05",
@@ -3511,7 +3628,13 @@
    "ext": "pdf",
    "size": 4765906,
    "date": "2026-06-14",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-06-08 – 2026-06-14",
@@ -3568,7 +3691,13 @@
    "ext": "pdf",
    "size": 3460283,
    "date": "2026-06-20",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-06-17 – 2026-06-20",
@@ -3619,7 +3748,13 @@
    "ext": "pdf",
    "size": 3477232,
    "date": "2026-06-26",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-06-23 – 2026-06-26",
@@ -3670,7 +3805,13 @@
    "ext": "pdf",
    "size": 2361398,
    "date": "2026-07-05",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-06-29 – 2026-07-05",
@@ -3727,7 +3868,13 @@
    "ext": "pdf",
    "size": 1062231,
    "date": "2026-07-11",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-07-08 – 2026-07-11",
@@ -3778,7 +3925,13 @@
    "ext": "pdf",
    "size": 1058756,
    "date": "2026-07-17",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-07-14 – 2026-07-17",
@@ -3829,7 +3982,13 @@
    "ext": "pdf",
    "size": 1181925,
    "date": "2026-07-26",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-07-20 – 2026-07-26",
@@ -3886,7 +4045,13 @@
    "ext": "pdf",
    "size": 1637641,
    "date": "2026-08-01",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-07-29 – 2026-08-01",
@@ -3937,7 +4102,13 @@
    "ext": "pdf",
    "size": 2222493,
    "date": "2026-08-07",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-08-04 – 2026-08-07",
@@ -3988,7 +4159,13 @@
    "ext": "pdf",
    "size": 2936379,
    "date": "2026-08-16",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-08-10 – 2026-08-16",
@@ -4045,7 +4222,13 @@
    "ext": "pdf",
    "size": 2222183,
    "date": "2026-08-22",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-08-19 – 2026-08-22",
@@ -4094,9 +4277,12 @@
    "file": "broadsheet_2026_05.pdf",
    "url": "static/media/broadsheet_2026_05.pdf",
    "ext": "pdf",
-   "size": 943884,
+   "size": 942469,
    "date": "2026-05-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - May 2026",
@@ -4127,7 +4313,10 @@
    "ext": "pdf",
    "size": 1666254,
    "date": "2026-06-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - June 2026",
@@ -4156,9 +4345,13 @@
    "file": "broadsheet_2026_08.pdf",
    "url": "static/media/broadsheet_2026_08.pdf",
    "ext": "pdf",
-   "size": 3341551,
+   "size": 3340011,
    "date": "2026-08-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS",
+    "AUGUST"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - August 2026",
@@ -4189,7 +4382,13 @@
    "ext": "pdf",
    "size": 3104101,
    "date": "2026-08-22",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-05",
@@ -4435,7 +4634,13 @@
    "ext": "pdf",
    "size": 16547384,
    "date": "2026-08-22",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-06",
@@ -4681,7 +4886,13 @@
    "ext": "pdf",
    "size": 4651481,
    "date": "2026-08-22",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-07",
@@ -4927,7 +5138,13 @@
    "ext": "pdf",
    "size": 8473035,
    "date": "2026-08-22",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026-08",
@@ -5173,7 +5390,13 @@
    "ext": "pdf",
    "size": 22080690,
    "date": "2026-08-22",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, 2026",
@@ -5419,7 +5642,13 @@
    "ext": "pdf",
    "size": 21427588,
    "date": "2026-08-22",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, All time",
@@ -5688,10 +5917,12 @@
    "size": 1114665,
    "date": "2026-09-19",
    "tags": [
-    "NOTES",
-    "NIGHT",
-    "SHORT",
-    "KNIVES"
+    "Dissent",
+    "Gender",
+    "Indian Politics",
+    "Misogyny",
+    "Protest",
+    "Student Movement"
    ],
    "subtitle": null,
    "type": "gazette",
@@ -5732,7 +5963,11 @@
    "ext": "pdf",
    "size": 683135,
    "date": "2026-09-01",
-   "tags": [],
+   "tags": [
+    "VOICE",
+    "EXPRESS",
+    "SEPTEMBER"
+   ],
    "subtitle": null,
    "type": "broadsheet",
    "title": "The Voice Express - September 2026",
@@ -5763,7 +5998,13 @@
    "ext": "html",
    "size": 6660118,
    "date": "2026-08-22",
-   "tags": [],
+   "tags": [
+    "BLOTTER",
+    "Delhi",
+    "Illustration",
+    "Law",
+    "Police Violence"
+   ],
    "subtitle": null,
    "type": "booklet",
    "title": "Blotter — Booklet, all time",

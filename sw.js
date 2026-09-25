@@ -1,4 +1,4 @@
-var CACHE = "ve-shell-20260922191355";
+var CACHE = "ve-shell-20260925150115";
 var DOWNLOADS_CACHE = "ve-downloads-v1";
 var SCOPE = self.registration.scope; 
 var SHELL = ["", "index.html", "app.css", "app.js", "qr.js", "manifest.webmanifest", "logo.png", "config.json"]
